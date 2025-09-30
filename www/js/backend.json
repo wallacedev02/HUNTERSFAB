@@ -1,0 +1,2774 @@
+[
+    {
+        "id": 1,
+        "imagem": "img/Valorant.png",
+        "nome": "Valorant",
+        "descricao": "Valorant é um jogo de tiro tático em primeira pessoa da Riot Games, lançado em 2020. Combinando armas tradicionais e habilidades únicas de agentes, ele exige estratégia, precisão e trabalho em equipe. Inspirado por Counter-Strike e Overwatch, destaca-se pelo equilíbrio competitivo e crescente sucesso nos esportes eletrônicos.",
+        "explicacao1": "Essa configuração foi projetada para oferecer desempenho consistente em altas taxas de quadros, ideal para jogadores competitivos de Valorant. A GTX 1050 Ti ou RX 560 garante gráficos detalhados e responsivos, enquanto o processador i5-9400F ou Ryzen 5 3600 oferece poder de processamento suficiente para rodar o jogo sem gargalos. Os 16 GB de RAM em dual-channel otimizam a multitarefa e ajudam na estabilidade do FPS. O SSD NVMe reduz drasticamente os tempos de carregamento, proporcionando uma experiência mais fluida. A placa-mãe e a fonte foram escolhidas para garantir compatibilidade e estabilidade do sistema, e o resfriamento avançado assegura a durabilidade e o desempenho ideal mesmo em sessões prolongadas de jogo.",
+        "explicacao2": "Essa configuração balanceia custo e desempenho, sendo perfeita para quem quer rodar Valorant com fluidez em configurações gráficas médias. A GT 730 ou R7 240 é suficiente para rodar o jogo em boas taxas de FPS, enquanto o processador i3-4150 ou Ryzen 3 1200 proporciona desempenho sólido para o motor do jogo. Os 8 GB de RAM permitem jogabilidade estável, especialmente se aliados a um SSD, que acelera os tempos de carregamento. A fonte e o cooler padrão foram selecionados para atender ao consumo do hardware, mantendo um equilíbrio entre eficiência e custo-benefício.",
+        "explicacao3": "Projetada para jogadores casuais ou máquinas de entrada, essa configuração é capaz de rodar Valorant em configurações mínimas. A placa gráfica integrada, como Intel HD Graphics 3000, aliada ao processador Core 2 Duo ou Athlon 200GE, atende aos requisitos básicos do jogo, enquanto os 4 GB de RAM suportam o funcionamento essencial do sistema. A placa-mãe e a fonte são simples e econômicas, garantindo compatibilidade e segurança. Embora os tempos de carregamento sejam mais longos devido ao uso do HDD, o desempenho geral é suficiente para uma experiência funcional em resoluções e ajustes baixos.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Video",
+                "detalhes": "NVIDIA GeForce GTX 1050 Ti ou AMD Radeon RX 560"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel i5-9400F ou AMD Ryzen 5 3600"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "20 GB de espaço livre em SSD, recomendável NVMe para maior velocidade"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "500W com certificação 80 Plus Bronze"
+            },
+            {
+                "caracteristica": "Memoria Ram",
+                "detalhes": "16 GB em dual-channel (2x8 GB)"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Chipset B360 (Intel) ou B450 (AMD) compatível com os processadores recomendados"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Cooler tower ou líquido básico, como Hyper 212 ou similar"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Video",
+                "detalhes1": "NVIDIA GeForce GT 730 ou AMD Radeon R7 240"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel i3-4150 ou AMD Ryzen 3 1200"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "20 GB de espaço livre no HDD ou SSD (preferencialmente SSD para carregamento mais rápido)"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "400W com certificação 80 Plus"
+            },
+            {
+                "caracteristica1": "Memoria Ram",
+                "detalhes1": "8 GB"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Chipset H81 (Intel) ou A320 (AMD) compatível com os processadores recomendados"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Cooler padrão para CPU, suficiente para desempenho médio"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Video",
+                "detalhes2": "Intel HD Graphics 3000 integrada ou Radeon R5 200"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core 2 Duo E8400 ou AMD Athlon 200GE"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "20 GB de espaço livre no disco rígido (HDD)"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "350W com eficiência 80 Plus (básica para hardware de baixo consumo)"
+            },
+            {
+                "caracteristica2": "Memoria Ram",
+                "detalhes2": "4 GB"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Compatível com processadores Core 2 Duo ou Athlon 200GE (exemplo: chipset Intel G41 ou AMD AM4 básico)"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Cooler de fábrica para CPU, suficiente para PCs básicos"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "imagem": "img/GTAV.png",
+        "nome": "GTA V",
+        "descricao": "GTA V é um jogo de ação e aventura da Rockstar Games, lançado em 2013. Ambientado em Los Santos, segue três personagens: Michael, Trevor e Franklin, em uma jornada de crimes e caos. Com um vasto mundo aberto e um modo multiplayer online, é um dos jogos mais vendidos e aclamados de todos os tempos.",
+        "explicacao1": "Essa configuração foi elaborada para rodar GTA V no máximo, com alta resolução e FPS consistente, mesmo em cenários pesados. A RTX 3060 ou RX 6700 XT oferece gráficos detalhados, excelente ray tracing e desempenho fluido. O processador i7-12700 ou Ryzen 7 5800X garante potência para rodar o mundo aberto do jogo sem quedas de desempenho. Com 16 GB de RAM DDR4 3200 MHz, o sistema lida com o multitarefa e mantém a fluidez, enquanto o SSD de alta velocidade reduz os tempos de carregamento significativamente. A fonte de 750W e o resfriamento avançado asseguram estabilidade e segurança mesmo sob carga máxima.",
+        "explicacao2": "Ideal para jogar GTA V com gráficos equilibrados e boa performance. A GTX 1660 Super ou RX 590 oferece potência para rodar o jogo com qualidade gráfica alta em 1080p. O i5-10400 ou Ryzen 5 3600 é eficiente e otimizado para o motor do jogo, enquanto os 8 GB de RAM DDR4 são suficientes para uma experiência estável. Um HDD de 7200 RPM ou um SSD básico reduz os tempos de carregamento. A fonte de 600W e o cooler padrão garantem um bom desempenho sem comprometer a durabilidade.",
+        "explicacao3": "Essa configuração é voltada para jogadores que querem rodar GTA V com ajustes gráficos mínimos. A GTX 1050 Ti ou RX 560 suporta o jogo de forma funcional, enquanto o processador i3-8100 ou Ryzen 3 1200 entrega desempenho básico suficiente para manter o jogo jogável. Os 8 GB de RAM ajudam a evitar travamentos, e o HDD de 500 GB oferece espaço para o jogo, embora com tempos de carregamento mais longos. A fonte de 450W e o cooler padrão são escolhas econômicas e adequadas para o consumo reduzido desse sistema.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Video",
+                "detalhes": "NVIDIA GeForce RTX 3060 ou AMD Radeon RX 6700 XT"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i7-12700 ou AMD Ryzen 7 5800X"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD de 120 GB com 80 GB livres para o jogo"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "750W, 80 Plus Gold"
+            },
+            {
+                "caracteristica": "Memória Ram",
+                "detalhes": "16 GB DDR4 3200 MHz ou superior"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Compatível com PCIe 4.0 e suporte a processadores modernos"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Watercooler de 240 mm ou air cooler de alta performance"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Video",
+                "detalhes1": "NVIDIA GeForce GTX 1660 Super ou AMD Radeon RX 590"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i5-10400 ou AMD Ryzen 5 3600"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "HDD de 1 TB (7200 RPM) ou SSD básico com 80 GB livres"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "600W, 80 Plus Bronze"
+            },
+            {
+                "caracteristica1": "Memória Ram",
+                "detalhes1": "8 GB DDR4 2666 MHz"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Placa-mãe básica com suporte a DDR4 e PCIe 3.0"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Air cooler padrão para processador"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Video",
+                "detalhes2": "NVIDIA GeForce GTX 1050 Ti ou AMD Radeon RX 560"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core i3-8100 ou AMD Ryzen 3 1200"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "HDD de 500 GB (5400 RPM) com 80 GB livres"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "450W, 80 Plus White"
+            },
+            {
+                "caracteristica2": "Memória Ram",
+                "detalhes2": "8 GB DDR4 2133 MHz"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Placa-mãe econômica com suporte a DDR4"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Cooler padrão do processador (stock cooler)"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "imagem": "img/RedDeadRedemptionII.png",
+        "nome": "Red Dead Redemption II",
+        "explicacao1": "Essa configuração foi desenvolvida para explorar Red Dead Redemption II no máximo de sua qualidade gráfica, com alta resolução e FPS consistente. A RTX 3080 ou RX 6800 XT oferece um desempenho poderoso, permitindo jogar em 4K com detalhes incríveis e fluidez. O processador i7-12700K ou Ryzen 7 5800X garante excelente capacidade para o mundo aberto detalhado, com suporte a multitarefa sem gargalos. A RAM de 16 GB em dual-channel otimiza o desempenho, enquanto o SSD NVMe Gen4 reduz drasticamente os tempos de carregamento. A fonte de 750W e o cooler líquido asseguram a estabilidade e mantêm a temperatura sob controle mesmo durante longas sessões de jogo.",
+        "explicacao2": "Essa configuração é voltada para jogar Red Dead Redemption II em 1080p com gráficos equilibrados e bom desempenho. A GTX 1060 6GB ou RX 590 oferece uma experiência sólida com taxas de FPS estáveis, enquanto o i7-4770K ou Ryzen 5 1500X proporciona uma boa performance para o motor do jogo. Com 12 GB de RAM, o sistema tem espaço para rodar o jogo e outras tarefas simultaneamente. O SSD SATA ou HDD rápido melhora os tempos de carregamento, e a fonte de 500W oferece a potência necessária para essa configuração de médio custo. O cooler básico mantém temperaturas adequadas para esse nível de hardware.",
+        "explicacao3": "Essa configuração é ideal para jogadores que buscam rodar Red Dead Redemption II com ajustes gráficos mínimos, garantindo jogabilidade básica. A GTX 770 ou R9 280 oferece suporte suficiente para gráficos em baixa resolução, enquanto o i5-2500K ou FX-6300 entrega um desempenho modesto, mas funcional. Os 8 GB de RAM atendem aos requisitos mínimos do jogo, e o HDD básico de 7200 RPM fornece o espaço necessário, ainda que com tempos de carregamento mais longos. A fonte de 450W e o cooler de fábrica complementam essa configuração econômica, garantindo compatibilidade e operação estável.",
+        "descricao": "Red Dead Redemption II é um jogo de ação e aventura da Rockstar Games, lançado em 2010. Ambientado no Velho Oeste, segue a história de John Marston, um ex-criminoso que busca capturar antigos parceiros para salvar sua família. Com um mundo aberto imersivo, missões emocionantes e uma rica narrativa, o jogo é aclamado por sua jogabilidade e ambientação detalhada.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Video",
+                "detalhes": "NVIDIA GeForce RTX 3080 com 10GB de VRAM ou AMD Radeon RX 6800 XT com 16GB de VRAM"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i7-12700K (12 núcleos, 20 threads) ou AMD Ryzen 7 5800X (8 núcleos, 16 threads)"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "150 GB de espaço disponível em SSD NVMe PCIe Gen4"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "750W com certificação 80 Plus Gold ou superior"
+            },
+            {
+                "caracteristica": "Memoria Ram",
+                "detalhes": "16 GB DDR4 em dual-channel (2x8 GB, 3200 MHz ou superior)"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Chipset Z690 (Intel) ou X570 (AMD), com suporte a overclock e PCIe Gen4"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Cooler líquido AIO de 240mm ou 360mm para melhor eficiência térmica"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Video",
+                "detalhes1": "NVIDIA GeForce GTX 1060 6GB ou AMD Radeon RX 590 com desempenho equilibrado em 1080p"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i7-4770K (4 núcleos, 8 threads) ou AMD Ryzen 5 1500X (4 núcleos, 8 threads)"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "150 GB de espaço livre em SSD SATA ou HDD rápido"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "500W com certificação 80 Plus Bronze"
+            },
+            {
+                "caracteristica1": "Memoria Ram",
+                "detalhes1": "12 GB DDR4 em dual-channel"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Chipset Z87 (Intel) ou B350 (AMD), compatível com os processadores recomendados"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Cooler padrão ou básico aftermarket, como Cooler Master Hyper 212"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Video",
+                "detalhes2": "NVIDIA GeForce GTX 770 com 2GB de VRAM ou AMD Radeon R9 280 com 3GB de VRAM"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core i5-2500K (4 núcleos, 4 threads) ou AMD FX-6300 (6 núcleos, 6 threads)"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "150 GB de espaço disponível em HDD básico (7200 RPM recomendado)"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "450W com certificação 80 Plus Bronze"
+            },
+            {
+                "caracteristica2": "Memoria Ram",
+                "detalhes2": "8 GB DDR3"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Chipset H61 (Intel) ou AM3+ básico (AMD), compatível com processadores de entrada"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Cooler de fábrica para CPU, suficiente para cargas leves"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "imagem": "img/BlackMythWukong.png",
+        "nome": "Black Myth Wukong",
+        "explicacao1": "Para Black Myth: Wukong, a configuração máxima foi projetada para rodar o jogo com gráficos em resolução 4K e desempenho ultra. A NVIDIA GeForce RTX 4080 ou AMD Radeon RX 7900 XTX, com grande quantidade de VRAM, garante uma performance gráfica excepcional, capaz de lidar com os detalhes complexos do mundo aberto e as cenas dinâmicas do jogo. O processador Intel Core i9-13900K ou AMD Ryzen 9 7900X, com múltiplos núcleos e threads, garante um desempenho multitarefa robusto, essencial para suportar a carga do jogo e outras tarefas simultâneas. A RAM de 32 GB DDR5 oferece o máximo em largura de banda e desempenho para suportar qualquer cenário de jogo, enquanto o SSD NVMe PCIe Gen4 proporciona tempos de carregamento rápidos. A fonte de 850W e o sistema de resfriamento líquido AIO garantem a estabilidade e eficiência térmica necessárias para essa configuração de alto desempenho.",
+        "explicacao2": "Essa configuração foi pensada para uma experiência sólida de Black Myth: Wukong em 1440p ou 1080p com qualidade gráfica alta. A placa de vídeo NVIDIA GeForce RTX 3070 ou AMD Radeon RX 6700 XT, combinada com um processador Intel Core i7-10700K ou AMD Ryzen 5 5600X, oferece desempenho suficiente para lidar com as exigentes demandas gráficas e físicas do jogo. Os 16 GB de RAM DDR4 são ideais para suportar a carga do jogo e manter a fluidez. O SSD SATA acelera os tempos de carregamento, e a fonte de 650W assegura a potência necessária para essa configuração intermediária. O cooler básico garante a temperatura adequada para o sistema, sem comprometer o desempenho.",
+        "explicacao3": "A configuração baixa foi elaborada para jogadores que buscam jogar Black Myth: Wukong com gráficos em baixa resolução e com ajustes gráficos reduzidos. A GTX 1060 6GB ou RX 580 8GB é suficiente para rodar o jogo em resoluções mais baixas, mantendo um desempenho razoável, enquanto o processador Intel Core i5-9400F ou Ryzen 3 3100 oferece desempenho suficiente para jogos menos exigentes. Os 8 GB de RAM DDR4 atendem aos requisitos mínimos do jogo, e o HDD de 7200 RPM fornece o espaço necessário, embora com tempos de carregamento mais longos. A fonte de 500W e o cooler de fábrica são adequados para um desempenho básico, garantindo operação estável em sessões de jogo mais leves.",
+        "descricao": "Black Myth: Wukong é um jogo de ação e aventura baseado na mitologia chinesa, focado no personagem Sun Wukong, o Rei Macaco. Desenvolvido pela Game Science, o jogo apresenta um mundo aberto e combate dinâmico, misturando elementos de ação, exploração e mitologia. O jogador assume o papel de Wukong, que possui habilidades mágicas e transformações, enfrentando inimigos e desafios inspirados no clássico literário Jornada ao Oeste. O jogo tem gerado grande expectativa por seus gráficos impressionantes e jogabilidade envolvente.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Video",
+                "detalhes": "NVIDIA GeForce RTX 4080 com 16GB de VRAM ou AMD Radeon RX 7900 XTX com 24GB de VRAM"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i9-13900K (24 núcleos, 32 threads) ou AMD Ryzen 9 7900X (12 núcleos, 24 threads)"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "150 GB de espaço livre em SSD NVMe PCIe Gen4"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "850W com certificação 80 Plus Gold ou superior"
+            },
+            {
+                "caracteristica": "Memoria Ram",
+                "detalhes": "32 GB DDR5 em dual-channel (5600 MHz ou superior)"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Chipset Z790 (Intel) ou X670E (AMD), com suporte a PCIe Gen5"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Cooler líquido AIO de 360mm ou custom loop para máxima eficiência térmica"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Video",
+                "detalhes1": "NVIDIA GeForce RTX 3070 8GB ou AMD Radeon RX 6700 XT 12GB"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i7-10700K (8 núcleos, 16 threads) ou AMD Ryzen 5 5600X (6 núcleos, 12 threads)"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "150 GB de espaço livre em SSD SATA"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "650W com certificação 80 Plus Bronze ou superior"
+            },
+            {
+                "caracteristica1": "Memoria Ram",
+                "detalhes1": "16 GB DDR4 (3200 MHz ou superior)"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Chipset Z490 (Intel) ou B550 (AMD), compatível com os processadores"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Cooler tower básico, como o Cooler Master Hyper 212"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Video",
+                "detalhes2": "NVIDIA GeForce GTX 1060 6GB ou AMD Radeon RX 580 8GB"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core i5-9400F (6 núcleos, 6 threads) ou AMD Ryzen 3 3100 (4 núcleos, 8 threads)"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "150 GB de espaço livre em HDD (7200 RPM)"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "500W com certificação 80 Plus Bronze"
+            },
+            {
+                "caracteristica2": "Memoria Ram",
+                "detalhes2": "8 GB DDR4 (2400 MHz ou superior)"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Chipset básico H310 (Intel) ou A320 (AMD), compatível com os processadores"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Cooler de fábrica para CPU, suficiente para cargas leves"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "imagem": "img/DGBSparking.png",
+        "nome": "Dragon Ball Sparking",
+        "explicacao1": "Para Dragon Ball Sparking, a configuração máxima garante uma experiência visual de alta qualidade, com gráficos detalhados e animações suaves. A NVIDIA GeForce RTX 4080 ou AMD Radeon RX 7900 XTX oferece desempenho gráfico de ponta, capaz de renderizar cenas 3D intensas e rápidas batalhas com qualidade superior. O Intel Core i9-12900K ou AMD Ryzen 9 5900X proporciona o poder de processamento necessário para rodar o jogo com desempenho impecável, incluindo múltiplas ações simultâneas no jogo. A memória RAM de 32 GB DDR4 ou DDR5 assegura que o jogo funcione de forma fluida, mesmo em momentos de maior carga. O SSD de 29 GB garante tempos de carregamento rápidos, enquanto a fonte de 750W 80 Plus Gold fornece a energia necessária para garantir estabilidade no sistema. O sistema de resfriamento de alta performance assegura que a temperatura do PC se mantenha sob controle, mesmo em longas sessões de jogo.",
+        "explicacao2": "Essa configuração oferece uma boa relação entre desempenho e custo, ideal para jogar Dragon Ball Sparking com qualidade gráfica elevada, mas sem necessidade de hardware extremo. A NVIDIA GeForce RTX 2060 ou AMD Radeon RX Vega 64 são placas de vídeo poderosas para rodar o jogo em resoluções de 1080p ou 1440p, mantendo uma boa taxa de quadros. O Intel Core i7-9700K ou AMD Ryzen 5 3600 são processadores de médio desempenho que ainda garantem uma jogabilidade suave. Com 16 GB de RAM DDR4, a configuração mantém o desempenho estável durante a execução do jogo, e o SSD de 29 GB garante carregamentos rápidos. A fonte de 650W 80 Plus Bronze é suficiente para alimentar o sistema, e o air cooler de boa qualidade mantém a temperatura sob controle durante o uso.",
+        "explicacao3": "Para quem deseja jogar Dragon Ball Sparking com configurações mais modestas, esta configuração é a mais econômica. A NVIDIA GeForce GTX 980 ou AMD Radeon RX 590 são placas de vídeo que ainda permitem jogar em qualidade média ou baixa, ideal para resoluções de 1080p. O Intel Core i5-9600K ou AMD Ryzen 5 2600 oferece um desempenho satisfatório para jogos de luta, mas pode não ter o mesmo desempenho em cenas muito complexas. Com 8 GB de RAM DDR4, o desempenho é adequado para jogos em configurações mais baixas, enquanto o HDD ou SSD com 29 GB de espaço garante o armazenamento necessário para o jogo. A fonte de 500W 80 Plus é suficiente para essa configuração mais modesta, e o sistema de resfriamento padrão é adequado para manter a temperatura do processador controlada.",
+        "descricao": "Dragon Ball Sparking é uma série de jogos de luta baseada no anime Dragon Ball. Lançado para PlayStation 2 e Wii, o título é conhecido por suas lutas dinâmicas e gráficos em 3D, permitindo aos jogadores controlar personagens icônicos como Goku e Vegeta em batalhas intensas. O jogo inclui uma história baseada no anime e oferece modos de combate e multiplayer.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Video",
+                "detalhes": "Nvidia GeForce RTX 4080 / AMD Radeon RX 7900 XTX"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i9-12900K / AMD Ryzen 9 5900X"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "29 GB disponíveis em SSD"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "750W ou superior, 80 Plus Gold"
+            },
+            {
+                "caracteristica": "Memoria Ram",
+                "detalhes": "32 GB DDR4 ou DDR5"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Compatível com PCIe 4.0 e processadores de alto desempenho"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Water cooler ou air cooler de alta performance"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Video",
+                "detalhes1": "Nvidia GeForce RTX 2060 / AMD Radeon RX Vega 64"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i7-9700K / AMD Ryzen 5 3600"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "29 GB disponíveis"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "650W, 80 Plus Bronze ou superior"
+            },
+            {
+                "caracteristica1": "Memoria Ram",
+                "detalhes1": "16 GB DDR4"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Compatível com PCIe 3.0 e processadores de médio desempenho"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Air cooler de boa qualidade"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Video",
+                "detalhes2": "Nvidia GeForce GTX 980 / AMD Radeon RX 590"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core i5-9600K / AMD Ryzen 5 2600"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "29 GB disponíveis"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "500W, 80 Plus"
+            },
+            {
+                "caracteristica2": "Memoria Ram",
+                "detalhes2": "8 GB DDR4"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Básica compatível com os processadores mínimos"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Padrão do processador"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "imagem": "img/CallofDutyBlackOps6.png",
+        "nome": "Call of Duty Balck Ops 6",
+        "explicacao1": "A configuração máxima para Call of Duty: Black Ops Cold War oferece desempenho extremo para jogar em altíssimas resoluções (como 1440p ou 4K) e com a taxa de quadros muito alta. A NVIDIA GeForce RTX 4070, RTX 3080 ou AMD Radeon RX 6800XT são placas gráficas de última geração, que conseguem oferecer um desempenho fluido e de alta qualidade, permitindo gráficos detalhados e texturas ricas. O Intel Core i7-8700K ou AMD Ryzen 7 2700X são processadores poderosos que garantem uma execução suave mesmo em momentos de intensa ação e multitarefa. A memória RAM de 16GB é o suficiente para garantir uma jogabilidade fluida, com capacidade para executar o jogo e outras tarefas simultaneamente sem perda de desempenho. O SSD de 102 GB proporciona tempos de carregamento rápidos, e a fonte de 650W 80 Plus Gold oferece uma potência eficiente e segura para suportar todo o sistema, enquanto o sistema de resfriamento de alta performance (ar ou water cooler) assegura temperaturas controladas durante sessões intensas de jogo.",
+        "explicacao2": "Para uma boa experiência de jogo em Call of Duty: Black Ops Cold War com configurações mais balanceadas, a NVIDIA GeForce GTX 1080Ti, RTX 3060 ou AMD Radeon RX 6600XT são placas de vídeo que ainda proporcionam uma experiência visual agradável e jogabilidade fluida em 1080p, com detalhes médios a altos. O Intel Core i7-6700K ou AMD Ryzen 5 1600X oferece desempenho suficiente para rodar o jogo com boa performance, enquanto os 12 GB de RAM garantem que o sistema não tenha problemas de desempenho, mesmo com multitarefas em segundo plano. O SSD de 102 GB assegura tempos de carregamento rápidos e armazenamento eficiente. Uma fonte de 550W e coolers padrão com boa ventilação do gabinete são suficientes para manter o sistema estável e funcional durante as sessões de jogo.",
+        "explicacao3": "A configuração baixa é ideal para quem deseja rodar Call of Duty: Black Ops Cold War com um orçamento mais apertado, com gráficos em resoluções mais baixas (1080p ou abaixo) e qualidade gráfica reduzida. A NVIDIA GeForce GTX 960, AMD Radeon RX 470 ou Intel Arc A580 são placas gráficas que possibilitam jogar o título, mas com limitações nas configurações gráficas. O Intel Core i5-6600 ou AMD Ryzen 5 1400 são processadores de desempenho mais modesto, suficientes para rodar o jogo em níveis baixos de detalhes. Com 8 GB de RAM, o jogo ainda roda de forma funcional, mas com menos capacidade para multitarefa. O SSD de 102 GB ainda garante tempos de carregamento razoáveis, enquanto a fonte de 500W e os coolers padrão são adequados para esse tipo de configuração mais simples, atendendo à demanda de energia e resfriamento básico do sistema.",
+        "descricao": "Call of Duty: Black Ops Cold War (lançado em 2020) é um jogo de tiro em primeira pessoa da Activision, ambientado durante a Guerra Fria. O jogo segue uma trama de espionagem envolvendo missões clandestinas e conflitos globais. Ele traz uma campanha single-player, modos multiplayer e o popular modo de zumbis. A ação intensa e o foco no combate tático tornaram o jogo um sucesso entre os fãs da série.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Vídeo",
+                "detalhes": "NVIDIA GeForce RTX 4070 / NVIDIA GeForce RTX 3080 / AMD Radeon RX 6800XT"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i7-8700K / AMD Ryzen 7 2700X"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD de 102GB disponível"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "Fonte de pelo menos 650W, com certificação 80 Plus Gold recomendada"
+            },
+            {
+                "caracteristica": "Memória RAM",
+                "detalhes": "16GB"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Compatível com os processadores e GPU recomendados (chipsets Z390 ou B450 são boas opções)."
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Resfriamento a ar de alta performance ou water cooler."
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Vídeo",
+                "detalhes1": "NVIDIA GeForce GTX 1080Ti / NVIDIA GeForce RTX 3060 / AMD Radeon RX 6600XT"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i7-6700K / AMD Ryzen 5 1600X"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "SSD de 102GB disponível"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "Fonte de pelo menos 550W"
+            },
+            {
+                "caracteristica1": "Memória RAM",
+                "detalhes1": "12GB"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Compatível com os processadores e GPU recomendados (chipsets Z170 ou B450 são boas opções)."
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Coolers padrão com boa ventilação do gabinete."
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Vídeo",
+                "detalhes2": "NVIDIA GeForce GTX 960 / AMD Radeon RX 470 / Intel Arc A580"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core i5-6600 / AMD Ryzen 5 1400"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "SSD de 102GB disponível"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "Fonte de pelo menos 500W"
+            },
+            {
+                "caracteristica2": "Memória RAM",
+                "detalhes2": "8GB"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Compatível com os processadores e GPU mínimos (chipsets B250 ou equivalentes)."
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Coolers padrão do processador e placa de vídeo."
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "imagem": "img/Counter-Strike2.png",
+        "nome": "Counter-Strike 2",
+        "explicacao1": "Para rodar Counter-Strike 2 com todos os gráficos no máximo, a NVIDIA GeForce RTX 4080 ou AMD Radeon RX 7900 XT são as melhores opções para garantir uma experiência visual de alta qualidade com taxas de quadros muito altas, mesmo em resoluções 1440p ou 4K. O Intel Core i9-13900K ou AMD Ryzen 9 7950X são processadores de ponta, que vão oferecer a maior performance possível, permitindo jogabilidade fluida e sem gargalos. O SSD NVMe de 1TB proporciona tempos de carregamento muito rápidos, garantindo uma experiência mais responsiva. A memória RAM de 32GB DDR5 assegura que o sistema tenha espaço suficiente para rodar o jogo e executar multitarefas sem impacto no desempenho. A fonte de 750W 80 Plus Gold é ideal para suportar essa configuração de alto desempenho. O sistema de resfriamento com cooler líquido de 240mm vai garantir que o processador e os outros componentes fiquem em temperaturas ideais durante as sessões de jogo mais intensas.",
+        "explicacao2": "Para uma boa performance em Counter-Strike 2 em resoluções de 1080p ou 1440p com gráficos em configurações médias a altas, a NVIDIA GeForce RTX 3060 Ti ou AMD Radeon RX 6700 XT são placas gráficas muito competentes para garantir uma experiência suave e com boa qualidade visual. O Intel Core i7-12700K ou AMD Ryzen 7 7700X oferecem desempenho muito bom para jogos competitivos, com alta taxa de quadros. O SSD NVMe de 512GB oferece boa capacidade de armazenamento e ótimos tempos de carregamento. Com 16GB de RAM DDR4, o sistema vai rodar o jogo sem engasgos, mantendo o desempenho nas sessões multiplayer mais intensas. A fonte de 650W 80 Plus Bronze é adequada para essa configuração, enquanto o cooler a ar de 120mm mantém os componentes em temperaturas seguras durante o jogo.",
+        "explicacao3": "Para uma experiência de Counter-Strike 2 mais modesta, mas ainda jogável em 1080p com configurações gráficas mais baixas, a NVIDIA GeForce GTX 1650 ou AMD Radeon RX 550 são placas gráficas de entrada que vão rodar o jogo com um desempenho mais limitado, mas com a jogabilidade estável. O Intel Core i5-10400F ou AMD Ryzen 5 3600 são processadores de média performance, que ainda conseguem rodar o jogo de forma funcional, embora com menos eficiência nas cenas mais intensas. O HDD de 1TB é suficiente para armazenar o jogo, mas apresenta tempos de carregamento mais lentos em comparação com SSDs. A memória RAM de 8GB DDR4 é o mínimo recomendado para o jogo, embora possa limitar a multitarefa. A fonte de 450W 80 Plus White e o cooler de 80mm são adequados para essa configuração básica, porém não são ideais para overclock ou longas sessões de jogo.",
+        "descricao": "Counter-Strike 2 é a nova versão da série de jogos de tiro, lançada em 2023, baseada no motor Source 2. O jogo mantém a clássica dinâmica de equipes de terroristas e contra-terroristas, mas com gráficos e desempenho melhorados, além de novos mapas e recursos.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Video",
+                "detalhes": "NVIDIA GeForce RTX 4080 / AMD Radeon RX 7900 XT"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i9-13900K / AMD Ryzen 9 7950X"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD NVMe de 1TB"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "750W, 80 Plus Gold"
+            },
+            {
+                "caracteristica": "Memória Ram",
+                "detalhes": "32GB DDR5"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Motherboard Z690 / X670"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Cooler líquido 240mm"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Video",
+                "detalhes1": "NVIDIA GeForce RTX 3060 Ti / AMD Radeon RX 6700 XT"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i7-12700K / AMD Ryzen 7 7700X"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "SSD NVMe de 512GB"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "650W, 80 Plus Bronze"
+            },
+            {
+                "caracteristica1": "Memória Ram",
+                "detalhes1": "16GB DDR4"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Motherboard B660 / B550"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Cooler a ar de 120mm"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Video",
+                "detalhes2": "NVIDIA GeForce GTX 1650 / AMD Radeon RX 550"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core i5-10400F / AMD Ryzen 5 3600"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "HDD de 1TB"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "450W, 80 Plus White"
+            },
+            {
+                "caracteristica2": "Memória Ram",
+                "detalhes2": "8GB DDR4"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Motherboard H510 / A320"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Cooler a ar de 80mm"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "imagem": "img/EAFC25.png",
+        "nome": "EAFC25",
+        "explicacao1": "Para uma experiência de EA Sports FC 25 com gráficos no máximo e uma jogabilidade fluida, a NVIDIA GeForce RTX 4080 ou AMD Radeon RX 7900 XT são as placas gráficas ideais, oferecendo altíssima performance e gráficos de última geração. O Intel Core i9-13900K ou AMD Ryzen 9 7950X são processadores topo de linha que garantem desempenho excepcional, especialmente durante partidas dinâmicas e com muitos detalhes gráficos. O SSD NVMe de 1TB oferece velocidades de carregamento extremamente rápidas, enquanto a memória RAM de 32GB DDR5 oferece capacidade de multitarefa sem comprometer o desempenho do jogo. A fonte de 750W 80 Plus Gold oferece potência suficiente para suportar esses componentes de alto desempenho. O sistema de resfriamento com cooler líquido de 240mm é ideal para manter a temperatura dos componentes sob controle, especialmente durante sessões intensas de jogo.",
+        "explicacao2": "Para quem deseja uma experiência de EA Sports FC 25 de alta qualidade em 1080p ou 1440p com configurações médias a altas, a NVIDIA GeForce RTX 3060 Ti ou AMD Radeon RX 6700 XT são excelentes escolhas, proporcionando gráficos fluidos e jogabilidade estável. O Intel Core i7-12700K ou AMD Ryzen 7 7700X são processadores que oferecem desempenho robusto, garantindo boa performance durante o jogo. O SSD NVMe de 512GB fornece armazenamento rápido e eficiente. A memória RAM de 16GB DDR4 é suficiente para garantir uma performance equilibrada. A fonte de 650W 80 Plus Bronze é adequada para essa configuração, e o cooler a ar de 120mm mantém os componentes refrigerados durante o uso intenso.",
+        "explicacao3": "Para rodar EA Sports FC 25 com configurações mais modestas, a NVIDIA GeForce GTX 1650 ou AMD Radeon RX 550 são placas gráficas de entrada, capazes de rodar o jogo em configurações baixas, porém com gráficos limitados. O Intel Core i5-10400F ou AMD Ryzen 5 3600 são processadores de médio desempenho, adequados para uma experiência mais básica. O HDD de 1TB é suficiente para armazenar o jogo, mas oferece tempos de carregamento mais lentos. Com 8GB de RAM DDR4, essa configuração é mais limitada para multitarefa. A fonte de 450W 80 Plus White e o cooler de 80mm são suficientes para manter o sistema funcionando, mas a refrigeração e a potência são mais limitadas para longas sessões de jogo.",
+        "descricao": "EA Sports FC 25 é a mais recente entrada na franquia de futebol da EA, que substitui a famosa série FIFA. O jogo oferece uma experiência realista com modos como Carreira, Ultimate Team e Club Pro. Ele foca em gameplay refinado, gráficos melhorados e uma maior ênfase na personalização, além de contar com mais licenças e parcerias exclusivas com clubes e ligas.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Video",
+                "detalhes": "NVIDIA GeForce RTX 4080 / AMD Radeon RX 7900 XT"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i9-13900K / AMD Ryzen 9 7950X"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD NVMe de 1TB"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "750W, 80 Plus Gold"
+            },
+            {
+                "caracteristica": "Memória Ram",
+                "detalhes": "32GB DDR5"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Motherboard Z690 / X670"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Cooler líquido 240mm"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Video",
+                "detalhes1": "NVIDIA GeForce RTX 3060 Ti / AMD Radeon RX 6700 XT"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i7-12700K / AMD Ryzen 7 7700X"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "SSD NVMe de 512GB"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "650W, 80 Plus Bronze"
+            },
+            {
+                "caracteristica1": "Memória Ram",
+                "detalhes1": "16GB DDR4"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Motherboard B660 / B550"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Cooler a ar de 120mm"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Video",
+                "detalhes2": "NVIDIA GeForce GTX 1650 / AMD Radeon RX 550"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core i5-10400F / AMD Ryzen 5 3600"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "HDD de 1TB"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "450W, 80 Plus White"
+            },
+            {
+                "caracteristica2": "Memória Ram",
+                "detalhes2": "8GB DDR4"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Motherboard H510 / A320"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Cooler a ar de 80mm"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "imagem": "img/TheWitcher.png",
+        "nome": "The Witcher 3",
+        "explicacao1": "Para rodar The Witcher 3: Wild Hunt com gráficos em ultra e uma experiência imersiva, a NVIDIA RTX 3070 ou AMD Radeon RX 6700 XT são excelentes opções de placas gráficas, capazes de entregar gráficos belos e detalhados com uma performance fluida em 1440p ou 4K. O Intel Core i7-9700K ou AMD Ryzen 7 3700X são processadores de alto desempenho, ideais para rodar o jogo com fluidez, mesmo em cenas com muitas unidades no campo de batalha. O SSD NVMe com 50 GB disponíveis garante tempos de carregamento rápidos e uma experiência sem interrupções. A memória RAM de 16 GB DDR4, 3200 MHz proporciona espaço suficiente para multitarefa e execução suave do jogo. A fonte de 650W ou superior, certificação 80 Plus garante estabilidade para todos os componentes, enquanto o sistema de resfriamento com water cooler ou dissipador de alta performance mantém os componentes com boa temperatura, mesmo em longas sessões de jogo.",
+        "explicacao2": "Se você está buscando uma experiência equilibrada, com configurações de qualidade média para The Witcher 3, a NVIDIA GTX 1060 ou AMD Radeon RX 580 são boas opções para jogar em 1080p, oferecendo boa performance em uma qualidade visual média. O Intel Core i5-8400 ou AMD Ryzen 5 1600 são processadores intermediários que entregam um desempenho adequado para rodar o jogo com uma experiência razoável, sem maiores quedas de FPS. O SSD SATA com 50 GB disponíveis oferece bom desempenho, mas não tão rápido quanto um NVMe, porém ainda garantindo uma experiência sem grandes problemas. A memória RAM de 8 GB DDR4, 2666 MHz oferece desempenho suficiente para jogos de médio porte. A fonte de 500W, certificação 80 Plus Bronze é uma opção econômica, e o cooler a ar padrão mantém a temperatura do sistema em níveis aceitáveis.",
+        "explicacao3": "Para rodar The Witcher 3 com configurações baixas, a NVIDIA GTX 970 ou AMD Radeon RX 570 são placas gráficas de entrada, capazes de entregar uma experiência jogável, mas com gráficos bem mais simplificados. O Intel Core i5-750 ou AMD FX-6300 são processadores mais antigos, mas ainda viáveis para rodar o jogo em resoluções mais baixas e com performance modesta. O HDD com 50 GB disponíveis tem um desempenho mais lento comparado ao SSD, resultando em tempos de carregamento mais longos. A memória RAM de 8 GB DDR3 é suficiente, mas limitante em relação aos padrões atuais de desempenho. A fonte de 450W, certificação 80 Plus é suficiente para suportar os componentes mais básicos, e o cooler stock mantém a temperatura em níveis aceitáveis, mas sem a eficiência de soluções de resfriamento mais avançadas.",
+        "descricao": "The Witcher 3: Wild Hunt é um RPG de ação desenvolvido pela CD Projekt Red, onde o jogador assume o papel de Geralt de Rivia, um caçador de monstros em um mundo medieval aberto e vasto. O jogo é conhecido por sua narrativa profunda, escolhas que afetam o mundo e o desenvolvimento dos personagens, além de batalhas dinâmicas e um mundo imersivo repleto de misérias, mistérios e criaturas fantásticas.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Vídeo",
+                "detalhes": "NVIDIA RTX 3070 ou AMD Radeon RX 6700 XT"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i7-9700K ou AMD Ryzen 7 3700X"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD NVMe com 50 GB disponíveis"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "650W ou superior, certificação 80 Plus"
+            },
+            {
+                "caracteristica": "Memória RAM",
+                "detalhes": "16 GB DDR4, 3200 MHz"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Chipset Z390 (Intel) ou X570 (AMD)"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Water cooler ou dissipador de alta performance"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Vídeo",
+                "detalhes1": "NVIDIA GTX 1060 ou AMD Radeon RX 580"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i5-8400 ou AMD Ryzen 5 1600"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "SSD SATA com 50 GB disponíveis"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "500W, certificação 80 Plus Bronze"
+            },
+            {
+                "caracteristica1": "Memória RAM",
+                "detalhes1": "8 GB DDR4, 2666 MHz"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Chipset B360 (Intel) ou B450 (AMD)"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Cooler a ar padrão"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Vídeo",
+                "detalhes2": "NVIDIA GTX 970 ou AMD Radeon RX 570"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core i5-750 ou AMD FX-6300"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "HDD com 50 GB disponíveis"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "450W, certificação 80 Plus"
+            },
+            {
+                "caracteristica2": "Memória RAM",
+                "detalhes2": "8 GB DDR3"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Chipset básico compatível com o processador"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Cooler stock"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "imagem": "img/Skyrim.png",
+        "nome": "Skyrim",
+        "explicacao1": "Para jogar The Elder Scrolls V: Skyrim com gráficos no mais alto nível e uma experiência fluida, a NVIDIA GeForce GTX 1080 ou AMD Radeon RX Vega 64 são ótimas opções de placas gráficas. Elas são poderosas o suficiente para rodar o jogo em resoluções mais altas com qualidade gráfica excelente. O Intel Core i7-4790K ou AMD Ryzen 7 3700X garantem um desempenho robusto, permitindo jogar com alta taxa de quadros, mesmo em áreas do jogo com muitos elementos na tela. O SSD NVMe com 12 GB disponíveis proporciona um tempo de carregamento rápido, garantindo uma experiência mais ágil e sem interrupções. A memória RAM de 16 GB DDR4, 3200 MHz permite realizar multitarefas sem problemas e é ideal para um desempenho fluido durante a exploração de Skyrim. A fonte de 650W, certificação 80 Plus Gold garante energia estável para todos os componentes, e o sistema de resfriamento com water cooler ou dissipador de alta performance mantém as temperaturas sob controle durante sessões de jogo prolongadas.",
+        "explicacao2": "Para uma experiência equilibrada em Skyrim, a NVIDIA GTX 1060 ou AMD Radeon RX 580 são placas gráficas ideais para rodar o jogo em 1080p com qualidade média. O Intel Core i5-2500K ou AMD Ryzen 5 1600 são processadores intermediários que oferecem bom desempenho em Skyrim, mesmo em áreas com muitos detalhes. O SSD SATA com 12 GB disponíveis é uma opção sólida, proporcionando um desempenho mais rápido que um HDD, mas inferior ao SSD NVMe. A memória RAM de 8 GB DDR4, 2133 MHz é adequada para a maioria das tarefas e jogos atuais, embora a frequência seja um pouco abaixo do ideal. A fonte de 500W, certificação 80 Plus Bronze oferece potência suficiente para essa configuração, e o cooler a ar padrão mantém os componentes frescos sem grandes custos adicionais.",
+        "explicacao3": "Se você tiver um sistema mais modesto, a NVIDIA GTX 950 ou AMD Radeon R7 370 são placas de entrada que ainda podem rodar Skyrim, mas com gráficos baixos e performance limitada, especialmente em áreas mais abertas. O Intel Core i3-540 ou AMD Phenom II X4 965 são processadores mais antigos e de menor desempenho, ideais para quem quer apenas rodar o jogo em resoluções mais baixas. O HDD com 12 GB disponíveis vai resultar em tempos de carregamento mais longos e uma experiência um pouco mais lenta. A memória RAM de 4 GB DDR3 é bem limitada e pode afetar o desempenho, especialmente em áreas mais exigentes do jogo. A fonte de 450W, certificação 80 Plus é o mínimo necessário para essa configuração, e o cooler stock mantém as temperaturas em níveis adequados, mas sem um desempenho superior de resfriamento.",
+        "descricao": "The Elder Scrolls V: Skyrim é um jogo de RPG de mundo aberto da Bethesda, ambientado no vasto continente de Tamriel. O jogador assume o papel do Dovahkiin, um herói com habilidades especiais, com a missão de derrotar o dragão Alduin e salvar o mundo. A exploração do mundo de Skyrim, as interações com NPCs e as diversas facções são apenas algumas das experiências que fazem deste jogo um dos mais imersivos de todos os tempos.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Vídeo",
+                "detalhes": "NVIDIA GeForce GTX 1080 ou AMD Radeon RX Vega 64"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i7-4790K ou AMD Ryzen 7 3700X"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD NVMe com 12 GB disponíveis"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "650W, certificação 80 Plus Gold"
+            },
+            {
+                "caracteristica": "Memória RAM",
+                "detalhes": "16 GB DDR4, 3200 MHz"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Chipset Z370 (Intel) ou X570 (AMD)"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Water cooler ou dissipador de alta performance"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Vídeo",
+                "detalhes1": "NVIDIA GTX 1060 ou AMD Radeon RX 580"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i5-2500K ou AMD Ryzen 5 1600"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "SSD SATA com 12 GB disponíveis"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "500W, certificação 80 Plus Bronze"
+            },
+            {
+                "caracteristica1": "Memória RAM",
+                "detalhes1": "8 GB DDR4, 2133 MHz"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Chipset B250 (Intel) ou B450 (AMD)"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Cooler a ar padrão"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Vídeo",
+                "detalhes2": "NVIDIA GTX 950 ou AMD Radeon R7 370"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core i3-540 ou AMD Phenom II X4 965"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "HDD com 12 GB disponíveis"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "450W, certificação 80 Plus"
+            },
+            {
+                "caracteristica2": "Memória RAM",
+                "detalhes2": "4 GB DDR3"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Chipset básico compatível com o processador"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Cooler stock"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "imagem": "img/TheSims4.png",
+        "nome": "The Sims 4",
+        "explicacao1": "Para uma experiência completa e fluida em The Sims 4, a NVIDIA GeForce GTX 1660 ou AMD Radeon RX 580 são opções ideais de placas gráficas. Elas oferecem uma performance equilibrada, permitindo jogar com gráficos mais detalhados e resolução 1080p, sem comprometer a performance. O Intel Core i5-6600K ou AMD Ryzen 5 1500X são processadores potentes, capazes de garantir que o jogo rode com suavidade, até mesmo em configurações mais exigentes. O SSD com 18 GB disponíveis proporciona uma experiência de carregamento mais rápida, reduzindo os tempos de espera durante o jogo. A memória RAM de 12 GB DDR4, 2133 MHz oferece espaço suficiente para multitarefa e para o jogo rodar de forma mais estável. A fonte de 450W, certificação 80 Plus é ideal para garantir uma distribuição eficiente de energia, e o sistema de resfriamento com water cooler ou dissipador de alta performance mantém o sistema refrigerado, mesmo durante longas sessões de jogo.",
+        "explicacao2": "Para uma experiência mais equilibrada em The Sims 4, a NVIDIA GTX 950 ou AMD Radeon R7 370 são placas gráficas de médio desempenho, que podem rodar o jogo em qualidade média. O Intel Core i5-750 ou AMD FX-6300 são processadores razoáveis para essa faixa de configuração, permitindo uma experiência satisfatória no jogo sem muitos travamentos. O HDD com 18 GB disponíveis será suficiente para o armazenamento, embora o jogo rode mais devagar se comparado com um SSD. A memória RAM de 8 GB DDR3 é adequada para a maioria dos jogos modernos, mas pode ter um desempenho limitado em jogos mais exigentes ou com muitas expansões no futuro. A fonte de 350W, certificação 80 Plus oferece o suficiente para essa configuração, e o cooler stock garante resfriamento adequado, sem necessidade de upgrades adicionais.",
+        "explicacao3": "Para rodar The Sims 4 em uma configuração básica, a NVIDIA GTX 650 ou AMD Radeon HD 7850 são placas gráficas de entrada, que oferecem desempenho básico, com gráficos limitados e em resoluções mais baixas. O Intel Core i3-530 ou AMD Athlon II X4 640 são processadores mais antigos e de baixo desempenho, adequados apenas para jogos simples e não muito exigentes. O HDD com 18 GB disponíveis ainda pode ser utilizado, mas os tempos de carregamento serão mais longos. A memória RAM de 4 GB DDR3 é bastante limitada para a maioria dos jogos atuais e pode gerar gargalos em jogos mais exigentes. A fonte de 300W, certificação 80 Plus é o mínimo necessário para essa configuração, e o cooler stock deve ser suficiente para manter o sistema refrigerado em sessões de jogo mais curtas.",
+        "descricao": "The Sims 4 é um simulador de vida da Electronic Arts, onde os jogadores criam e controlam a vida de Sims, personagens virtuais, e suas interações no dia a dia. O jogo permite aos jogadores personalizar a aparência, as relações e os destinos de seus Sims, desde o nascimento até a velhice, além de possibilitar a construção e decoração de casas e o gerenciamento de suas carreiras.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Vídeo",
+                "detalhes": "NVIDIA GeForce GTX 1660 ou AMD Radeon RX 580"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i5-6600K ou AMD Ryzen 5 1500X"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD com 18 GB disponíveis"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "450W, certificação 80 Plus"
+            },
+            {
+                "caracteristica": "Memória RAM",
+                "detalhes": "12 GB DDR4, 2133 MHz"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Chipset B250 (Intel) ou B350 (AMD)"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Water cooler ou dissipador de alta performance"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Vídeo",
+                "detalhes1": "NVIDIA GTX 950 ou AMD Radeon R7 370"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i5-750 ou AMD FX-6300"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "HDD com 18 GB disponíveis"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "350W, certificação 80 Plus"
+            },
+            {
+                "caracteristica1": "Memória RAM",
+                "detalhes1": "8 GB DDR3"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Chipset básico compatível com o processador"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Cooler stock"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Vídeo",
+                "detalhes2": "NVIDIA GTX 650 ou AMD Radeon HD 7850"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core i3-530 ou AMD Athlon II X4 640"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "HDD com 18 GB disponíveis"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "300W, certificação 80 Plus"
+            },
+            {
+                "caracteristica2": "Memória RAM",
+                "detalhes2": "4 GB DDR3"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Chipset básico compatível com o processador"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Cooler stock"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "imagem": "img/TheLastofUs.png",
+        "nome": "The Last of Us Part I",
+        "explicacao1": "Para jogar The Last of Us™ Part I com gráficos de ponta e uma experiência imersiva de alta qualidade, a NVIDIA GeForce RTX 4080 ou AMD Radeon RX 7900 XT são placas gráficas de última geração que oferecem suporte para resoluções altas, ray tracing e outras tecnologias gráficas avançadas. O Intel Core i9-13900K ou AMD Ryzen 9 7950X são processadores poderosos, capazes de rodar o jogo com o máximo desempenho e permitir uma experiência sem quedas de frame. O SSD NVMe de 1TB proporciona tempos de carregamento extremamente rápidos e armazenamento suficiente para o jogo e seus arquivos adicionais. A memória RAM de 32GB DDR5 garante uma multitarefa eficiente e o desempenho ideal, mesmo com aplicações e jogos exigentes. A fonte de 750W, certificação 80 Plus Gold assegura a distribuição eficiente de energia, e o cooler líquido 240mm mantém o sistema refrigerado durante sessões prolongadas, mantendo o desempenho estável.",
+        "explicacao2": "Para uma experiência de jogo equilibrada em The Last of Us™ Part I, a NVIDIA GeForce RTX 3060 Ti ou AMD Radeon RX 6700 XT são ótimas opções, oferecendo gráficos de alta qualidade em 1080p e 1440p. O Intel Core i7-12700K ou AMD Ryzen 7 7700X são processadores potentes que garantem um desempenho fluido, mesmo em configurações gráficas médias. O SSD NVMe de 512GB oferece um bom equilíbrio entre velocidade de carregamento e espaço de armazenamento. A memória RAM de 16GB DDR4 é suficiente para a maioria dos jogos modernos, enquanto a fonte de 650W, certificação 80 Plus Bronze oferece uma boa distribuição de energia para manter o sistema estável. O cooler a ar de 120mm garante uma boa dissipação de calor, mantendo a temperatura do sistema sob controle durante o jogo.",
+        "explicacao3": "Para rodar The Last of Us™ Part I com qualidade reduzida e em resoluções mais baixas, a NVIDIA GeForce GTX 1650 ou AMD Radeon RX 550 são placas gráficas de entrada que suportam o jogo em configurações gráficas baixas a médias. O Intel Core i5-10400F ou AMD Ryzen 5 3600 são processadores de desempenho médio, adequados para jogos mais simples ou configurações gráficas baixas. O HDD de 1TB pode ser usado, embora os tempos de carregamento sejam mais longos em comparação com um SSD. A memória RAM de 8GB DDR4 é o mínimo recomendado para rodar o jogo de forma satisfatória. A fonte de 450W, certificação 80 Plus White é suficiente para suportar essa configuração de baixo consumo, e o cooler a ar de 80mm mantém o sistema refrigerado em cargas mais leves.",
+        "descricao": "The Last of Us™ Part I é a versão remasterizada do aclamado jogo de ação e aventura da Naughty Dog. Ambientado em um mundo pós-apocalíptico, o jogo segue Joel e Ellie, enquanto eles tentam sobreviver e encontrar um futuro em uma terra devastada por uma infecção que transforma humanos em monstros. O jogo é conhecido por sua narrativa emocionante, gráficos de alta qualidade e uma jogabilidade que mistura exploração e combate.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Video",
+                "detalhes": "NVIDIA GeForce RTX 4080 / AMD Radeon RX 7900 XT"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i9-13900K / AMD Ryzen 9 7950X"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD NVMe de 1TB"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "750W, 80 Plus Gold"
+            },
+            {
+                "caracteristica": "Memória Ram",
+                "detalhes": "32GB DDR5"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Motherboard Z690 / X670"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Cooler líquido 240mm"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Video",
+                "detalhes1": "NVIDIA GeForce RTX 3060 Ti / AMD Radeon RX 6700 XT"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i7-12700K / AMD Ryzen 7 7700X"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "SSD NVMe de 512GB"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "650W, 80 Plus Bronze"
+            },
+            {
+                "caracteristica1": "Memória Ram",
+                "detalhes1": "16GB DDR4"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Motherboard B660 / B550"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Cooler a ar de 120mm"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Video",
+                "detalhes2": "NVIDIA GeForce GTX 1650 / AMD Radeon RX 550"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core i5-10400F / AMD Ryzen 5 3600"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "HDD de 1TB"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "450W, 80 Plus White"
+            },
+            {
+                "caracteristica2": "Memória Ram",
+                "detalhes2": "8GB DDR4"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Motherboard H510 / A320"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Cooler a ar de 80mm"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "imagem": "img/Cyberpunk2077.png",
+        "nome": "Cyberpunk 2077",
+        "explicacao1": "Configuração Máxima: Para uma experiência de jogo completa em Cyberpunk 2077, a NVIDIA GeForce RTX 4080 ou AMD Radeon RX 7900 XT são as opções ideais, oferecendo gráficos impressionantes com suporte para ray tracing em altas resoluções. O Intel Core i9-13900K ou AMD Ryzen 9 7950X são processadores de topo que garantem um desempenho incrível, mesmo em configurações gráficas exigentes. O SSD NVMe de 1TB proporciona tempos de carregamento rápidos e armazenamento suficiente para o jogo e seus expansões. A memória RAM de 32GB DDR5 garante excelente desempenho, especialmente com tarefas pesadas e multitarefa. A fonte de 750W, certificação 80 Plus Gold oferece uma energia estável e eficiente para suportar essa configuração de alto desempenho. O cooler líquido 240mm mantém as temperaturas do sistema sob controle, mesmo durante longas sessões de jogo.",
+        "explicacao2": "Se você busca uma boa performance em Cyberpunk 2077 com uma qualidade gráfica mais equilibrada, a NVIDIA GeForce RTX 3060 Ti ou AMD Radeon RX 6700 XT são ótimas opções, permitindo jogar em 1080p ou 1440p com ajustes gráficos médios ou altos. O Intel Core i7-12700K ou AMD Ryzen 7 7700X são processadores robustos, garantindo fluidez nas mais diversas situações do jogo. O SSD NVMe de 512GB oferece velocidade e bom espaço para o jogo. A memória RAM de 16GB DDR4 é suficiente para uma boa experiência de jogo, e a fonte de 650W, certificação 80 Plus Bronze assegura a entrega de energia de forma confiável. O cooler a ar de 120mm mantém o sistema refrigerado sem comprometer o desempenho.",
+        "explicacao3": "Para jogar Cyberpunk 2077 em configurações gráficas mais baixas, a NVIDIA GeForce GTX 1650 ou AMD Radeon RX 550 são adequadas, embora a qualidade gráfica será comprometida, com o jogo funcionando em resoluções mais baixas e gráficos reduzidos. O Intel Core i5-10400F ou AMD Ryzen 5 3600 são processadores de gama média que podem rodar o jogo em configurações baixas. O HDD de 1TB pode ser utilizado, mas resultará em tempos de carregamento mais longos em comparação com um SSD. A memória RAM de 8GB DDR4 é o mínimo necessário para garantir um desempenho funcional, enquanto a fonte de 450W, certificação 80 Plus White oferece a energia suficiente para essa configuração básica. O cooler a ar de 80mm mantém o sistema resfriado, mas pode ser menos eficiente durante sessões prolongadas.",
+        "descricao": "Cyberpunk 2077 é um jogo de RPG de ação de mundo aberto, ambientado em Night City, uma megalópole futurista dominada por tecnologias avançadas e corrupção. O jogo oferece uma experiência intensa, com um enredo envolvente e uma imersão profunda, explorando temas como ciberimplantes, gangs, e a luta por poder e sobrevivência.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Video",
+                "detalhes": "NVIDIA GeForce RTX 4080 / AMD Radeon RX 7900 XT"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i9-13900K / AMD Ryzen 9 7950X"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD NVMe de 1TB"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "750W, 80 Plus Gold"
+            },
+            {
+                "caracteristica": "Memória Ram",
+                "detalhes": "32GB DDR5"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Motherboard Z690 / X670"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Cooler líquido 240mm"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Video",
+                "detalhes1": "NVIDIA GeForce RTX 3060 Ti / AMD Radeon RX 6700 XT"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i7-12700K / AMD Ryzen 7 7700X"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "SSD NVMe de 512GB"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "650W, 80 Plus Bronze"
+            },
+            {
+                "caracteristica1": "Memória Ram",
+                "detalhes1": "16GB DDR4"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Motherboard B660 / B550"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Cooler a ar de 120mm"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Video",
+                "detalhes2": "NVIDIA GeForce GTX 1650 / AMD Radeon RX 550"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core i5-10400F / AMD Ryzen 5 3600"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "HDD de 1TB"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "450W, 80 Plus White"
+            },
+            {
+                "caracteristica2": "Memória Ram",
+                "detalhes2": "8GB DDR4"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Motherboard H510 / A320"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Cooler a ar de 80mm"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "imagem": "img/HogwartsLegacy.png",
+        "nome": "Hogwarts Legacy",
+        "explicacao1": "Para uma experiência mágica imersiva em Hogwarts Legacy, a NVIDIA GeForce RTX 4080 ou AMD Radeon RX 7900 XT garantem gráficos impressionantes em resoluções 4K com ray tracing ativado. O Intel Core i9-13900K ou AMD Ryzen 9 7950X fornecem o desempenho necessário para cenários complexos e interações dinâmicas. Com um SSD NVMe de 1TB, os tempos de carregamento são praticamente inexistentes, permitindo que você entre em Hogwarts sem atrasos. 32GB de RAM DDR5 suportam tanto o jogo quanto multitarefas, e a fonte de 750W (80 Plus Gold) assegura uma energia estável. O cooler líquido de 240mm mantém o sistema resfriado durante longas sessões de jogo.",
+        "explicacao2": "Uma configuração equilibrada para rodar o jogo em 1080p ou 1440p com gráficos ajustados para qualidade média/alta inclui uma NVIDIA GeForce RTX 3060 Ti ou AMD Radeon RX 6700 XT, que oferecem ótimo desempenho gráfico. O Intel Core i7-12700K ou AMD Ryzen 7 7700X lidam facilmente com os cenários e animações complexas. Um SSD NVMe de 512GB é mais que suficiente para o jogo e outros arquivos essenciais. 16GB de RAM DDR4 garantem fluidez na jogabilidade, e a fonte de 650W (80 Plus Bronze) fornece energia suficiente para o sistema. O cooler a ar de 120mm mantém a temperatura sob controle sem complicações.",
+        "explicacao3": "Para explorar Hogwarts com gráficos reduzidos, a NVIDIA GeForce GTX 1650 ou AMD Radeon RX 550 são suficientes para rodar o jogo em resoluções mais baixas com configurações gráficas mínimas. O Intel Core i5-10400F ou AMD Ryzen 5 3600 garantem um desempenho decente. O HDD de 1TB pode ser usado para armazenar o jogo, embora o carregamento seja mais lento do que em um SSD. 8GB de RAM DDR4 é o mínimo necessário para rodar o jogo, e a fonte de 450W (80 Plus White) é suficiente para a configuração. O cooler a ar de 80mm mantém o sistema funcional, mesmo que menos eficiente em comparação com opções maiores.",
+        "descricao": "Hogwarts Legacy é um RPG de ação ambientado no universo de Harry Potter, mas com uma história que se passa no século 19, antes dos eventos dos livros. O jogador assume o papel de um estudante em Hogwarts com a habilidade rara de manipular a magia antiga. O jogo oferece um mundo aberto onde os jogadores podem explorar o castelo de Hogwarts, suas áreas circundantes e até locais famosos como a Floresta Proibida e Hogsmeade. Além de frequentar aulas, os jogadores resolvem mistérios, enfrentam criaturas mágicas e interagem com personagens novos e conhecidos, enquanto tomam decisões que impactam o curso de suas aventuras e o destino do mundo mágico.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Video",
+                "detalhes": "NVIDIA GeForce RTX 4080 / AMD Radeon RX 7900 XT"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i9-13900K / AMD Ryzen 9 7950X"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD NVMe de 1TB"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "750W, 80 Plus Gold"
+            },
+            {
+                "caracteristica": "Memória Ram",
+                "detalhes": "32GB DDR5"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Motherboard Z690 / X670"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Cooler líquido 240mm"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Video",
+                "detalhes1": "NVIDIA GeForce RTX 3060 Ti / AMD Radeon RX 6700 XT"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i7-12700K / AMD Ryzen 7 7700X"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "SSD NVMe de 512GB"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "650W, 80 Plus Bronze"
+            },
+            {
+                "caracteristica1": "Memória Ram",
+                "detalhes1": "16GB DDR4"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Motherboard B660 / B550"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Cooler a ar de 120mm"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Video",
+                "detalhes2": "NVIDIA GeForce GTX 1650 / AMD Radeon RX 550"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core i5-10400F / AMD Ryzen 5 3600"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "HDD de 1TB"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "450W, 80 Plus White"
+            },
+            {
+                "caracteristica2": "Memória Ram",
+                "detalhes2": "8GB DDR4"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Motherboard H510 / A320"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Cooler a ar de 80mm"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "imagem": "img/tekken.png",
+        "nome": "Tekken 8",
+        "explicacao1": "Para experimentar Tekken 8 com gráficos deslumbrantes em altas taxas de quadros, a NVIDIA GeForce RTX 3080 ou AMD Radeon RX 6800 XT é ideal para rodar o jogo em 4K com configurações no máximo. Um Intel Core i7-12700K ou AMD Ryzen 7 5800X é perfeito para garantir jogabilidade fluida, mesmo em lutas frenéticas. O SSD NVMe com pelo menos 100 GB disponíveis reduz os tempos de carregamento drasticamente, enquanto 16 GB de RAM DDR4 (3200 MHz) garantem desempenho multitarefa suave. A fonte de 750W (80 Plus Gold) suporta a alta demanda energética, e o sistema de resfriamento avançado (como water cooler) mantém tudo rodando frio e silencioso.",
+        "explicacao2": "Uma NVIDIA GeForce GTX 1070 ou AMD Radeon RX 5700 XT é uma escolha equilibrada para rodar o jogo em 1080p a 60 FPS com configurações médias. O Intel Core i7-8700K ou AMD Ryzen 5 3600 é suficientemente poderoso para lidar com o motor gráfico do jogo. O SSD SATA com 100 GB disponíveis proporciona tempos de carregamento aceitáveis, e 16 GB de RAM DDR4 (2666 MHz) garantem uma experiência fluida. A fonte de 650W (80 Plus Bronze) fornece energia suficiente, e um cooler a ar padrão é eficiente para manter as temperaturas controladas.",
+        "explicacao3": "Para jogar Tekken 8 em resoluções menores e configurações gráficas mínimas, uma NVIDIA GeForce GTX 960 ou AMD Radeon R9 380 é adequada. Um processador como o Intel Core i5-2500K ou AMD Ryzen 3 1200 é suficiente para manter o jogo funcional, e um HDD com 100 GB disponíveis pode ser usado, embora os tempos de carregamento sejam mais longos. 8 GB de RAM DDR3 é o mínimo necessário para rodar o jogo, enquanto a fonte de 450W (80 Plus) e o cooler stock mantêm a configuração simples e acessível.",
+        "descricao": "Tekken 8 continua a icônica série de jogos de luta com novos mecânicos, incluindo um sistema de heat, que oferece aos jogadores impulsos temporários de poder. A história segue a eterna rivalidade entre Heihachi Mishima e seu filho, Kazuya, enquanto o jogo traz novos personagens e retorna com lutadores clássicos. A jogabilidade combina combate rápido e dinâmica com opções de personalização para os personagens​.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Vídeo",
+                "detalhes": "NVIDIA GeForce RTX 3080 ou AMD Radeon RX 6800 XT"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i7-12700K ou AMD Ryzen 7 5800X"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD NVMe com 100 GB disponíveis"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "750W, certificação 80 Plus Gold"
+            },
+            {
+                "caracteristica": "Memória RAM",
+                "detalhes": "16 GB DDR4, 3200 MHz"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Chipset Z690 (Intel) ou X570 (AMD)"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Water cooler ou dissipador de alta performance"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Vídeo",
+                "detalhes1": "NVIDIA GeForce GTX 1070 ou AMD Radeon RX 5700 XT"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i7-8700K ou AMD Ryzen 5 3600"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "SSD SATA com 100 GB disponíveis"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "650W, certificação 80 Plus Bronze"
+            },
+            {
+                "caracteristica1": "Memória RAM",
+                "detalhes1": "16 GB DDR4, 2666 MHz"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Chipset B450 (AMD) ou B360 (Intel)"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Cooler a ar padrão"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Vídeo",
+                "detalhes2": "NVIDIA GeForce GTX 960 ou AMD Radeon R9 380"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core i5-2500K ou AMD Ryzen 3 1200"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "HDD com 100 GB disponíveis"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "450W, certificação 80 Plus"
+            },
+            {
+                "caracteristica2": "Memória RAM",
+                "detalhes2": "8 GB DDR3"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Chipset básico compatível com o processador"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Cooler stock"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "imagem": "img/Dragon'sDogma2.png",
+        "nome": "Dragon's Dogma 2",
+        "explicacao1": "Para uma experiência imersiva em Dragon's Dogma 2, a NVIDIA GeForce RTX 4080 ou AMD Radeon RX 7900 XT é ideal para rodar o jogo em 4K com configurações no ultra e altas taxas de quadros. Um processador como o Intel Core i9-13900K ou AMD Ryzen 9 7900X oferece desempenho extremo para as batalhas épicas e vastos cenários. Um SSD NVMe com 100 GB disponíveis reduz drasticamente os tempos de carregamento, enquanto 32 GB de RAM DDR5 (5200 MHz) garante fluidez em multitarefas e gráficos intensos. Uma fonte de 850W (80 Plus Gold) e um water cooler de alta performance são essenciais para estabilidade e resfriamento eficiente durante sessões prolongadas.",
+        "explicacao2": "Com uma NVIDIA GeForce RTX 3070 ou AMD Radeon RX 6700 XT, é possível jogar em 1080p ou 1440p com gráficos em alta qualidade. O Intel Core i7-12700K ou AMD Ryzen 7 5800X lida bem com o jogo, mesmo em combates complexos. Um SSD NVMe ainda é recomendado para tempos de carregamento rápidos, e 16 GB de RAM DDR4 (3200 MHz) são suficientes para rodar o jogo com boa performance. Uma fonte de 750W (80 Plus Gold) e um water cooler ou dissipador de alta performance mantêm o sistema estável e resfriado.",
+        "explicacao3": "Para quem busca jogar Dragon's Dogma 2 em configurações mínimas, a NVIDIA GeForce GTX 1060 ou AMD Radeon RX 580 permite rodar o jogo em 1080p com qualidade gráfica reduzida. Processadores como o Intel Core i5-9600K ou AMD Ryzen 5 3600 oferecem potência suficiente, e um SSD SATA com 100 GB disponíveis garante tempos de carregamento aceitáveis. 16 GB de RAM DDR4 (2666 MHz) é o mínimo ideal para evitar travamentos. Uma fonte de 550W (80 Plus Bronze) e um cooler a ar padrão são adequados para manter uma configuração eficiente e econômica.",
+        "descricao": "Previsto para ser lançado em março de 2024, Dragon's Dogma 2 é a sequência do RPG de ação que mistura exploração em mundo aberto com batalhas épicas contra monstros. O jogo traz intrigas políticas no reino de Vermund e permite explorar locais como a nação dos Beastmen. O sistema de combate dinâmico e os companheiros pawn (que podem ser criados pelo jogador) são um dos principais destaques​.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Vídeo",
+                "detalhes": "NVIDIA GeForce RTX 4080 ou AMD Radeon RX 7900 XT"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i9-13900K ou AMD Ryzen 9 7900X"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD NVMe com 100 GB disponíveis"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "850W, certificação 80 Plus Gold"
+            },
+            {
+                "caracteristica": "Memória RAM",
+                "detalhes": "32 GB DDR5, 5200 MHz"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Chipset Z790 (Intel) ou X670 (AMD)"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Water cooler de alta performance"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Vídeo",
+                "detalhes1": "NVIDIA GeForce RTX 3070 ou AMD Radeon RX 6700 XT"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i7-12700K ou AMD Ryzen 7 5800X"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "SSD NVMe com 100 GB disponíveis"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "750W, certificação 80 Plus Gold"
+            },
+            {
+                "caracteristica1": "Memória RAM",
+                "detalhes1": "16 GB DDR4, 3200 MHz"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Chipset Z690 (Intel) ou X570 (AMD)"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Water cooler ou dissipador de alta performance"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Vídeo",
+                "detalhes2": "NVIDIA GeForce GTX 1060 ou AMD Radeon RX 580"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core i5-9600K ou AMD Ryzen 5 3600"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "SSD SATA com 100 GB disponíveis"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "550W, certificação 80 Plus Bronze"
+            },
+            {
+                "caracteristica2": "Memória RAM",
+                "detalhes2": "16 GB DDR4, 2666 MHz"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Chipset B560 (Intel) ou B450 (AMD)"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Cooler a ar padrão"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "imagem": "img/FinalFantasyXVI(FFXVI).png",
+        "nome": "Final Fantasy XVI",
+        "explicacao1": "Para uma experiência totalmente imersiva em Final Fantasy XVI, uma NVIDIA GeForce RTX 4080 ou AMD Radeon RX 7900 XTX permitirá aproveitar gráficos em 4K com alta fidelidade visual, incluindo efeitos detalhados e iluminação realista. Um processador como o Intel Core i9-13900K ou AMD Ryzen 9 7900X lida com a narrativa dinâmica e os combates fluidos. Um SSD NVMe com 150 GB disponíveis garante carregamentos quase instantâneos, e 32 GB de RAM DDR5 (5200 MHz) proporcionam fluidez para rodar o jogo e multitarefas. A fonte de 850W (80 Plus Platinum) e um water cooler de alta performance asseguram estabilidade e resfriamento adequado em longas sessões.",
+        "explicacao2": "Para jogar em 1440p com qualidade gráfica elevada, a NVIDIA GeForce RTX 3070 ou AMD Radeon RX 6800 XT é ideal. Um processador como o Intel Core i7-12700K ou AMD Ryzen 7 5800X é mais do que suficiente para proporcionar boa performance. Um SSD NVMe continua essencial para tempos de carregamento rápidos, enquanto 16 GB de RAM DDR4 (3200 MHz) suportam o jogo e processos em segundo plano. A fonte de 750W (80 Plus Gold) e um cooler a ar de boa qualidade oferecem um equilíbrio entre custo e eficiência.",
+        "explicacao3": "Para quem deseja rodar Final Fantasy XVI em configurações mínimas, a NVIDIA GeForce GTX 1060 ou AMD Radeon RX 580 permitirá uma experiência jogável em 1080p, com gráficos simplificados. Um Intel Core i5-9600K ou AMD Ryzen 5 3600 é suficiente para lidar com os combates e exploração do mundo de Valisthea. Um HDD com 150 GB disponíveis será funcional, mas com tempos de carregamento mais longos. 16 GB de RAM DDR4 (2666 MHz) oferecem o básico para evitar gargalos. Uma fonte de 550W (80 Plus Bronze) e um cooler stock atendem às necessidades da configuração.",
+        "descricao": "Final Fantasy XVI apresenta uma aventura épica com uma narrativa mais madura e sombria. O jogo se passa no mundo de Valisthea, onde uma luta de poder entre nações, representadas pelos Eikons (os summons), ameaça a paz. O combate é mais voltado para a ação e o jogo explora temas como vingança e destino através do protagonista, Clive Rosfield​.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Vídeo",
+                "detalhes": "NVIDIA GeForce RTX 4080 ou AMD Radeon RX 7900 XTX"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i9-13900K ou AMD Ryzen 9 7900X"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD NVMe com 150 GB disponíveis"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "850W, certificação 80 Plus Platinum"
+            },
+            {
+                "caracteristica": "Memória RAM",
+                "detalhes": "32 GB DDR5, 5200 MHz"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Chipset Z790 (Intel) ou X670 (AMD)"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Water cooler de alta performance"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Vídeo",
+                "detalhes1": "NVIDIA GeForce RTX 3070 ou AMD Radeon RX 6800 XT"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i7-12700K ou AMD Ryzen 7 5800X"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "SSD NVMe com 150 GB disponíveis"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "750W, certificação 80 Plus Gold"
+            },
+            {
+                "caracteristica1": "Memória RAM",
+                "detalhes1": "16 GB DDR4, 3200 MHz"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Chipset Z690 (Intel) ou X570 (AMD)"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Cooler a ar de boa qualidade"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Vídeo",
+                "detalhes2": "NVIDIA GeForce GTX 1060 ou AMD Radeon RX 580"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core i5-9600K ou AMD Ryzen 5 3600"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "HDD com 150 GB disponíveis"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "550W, certificação 80 Plus Bronze"
+            },
+            {
+                "caracteristica2": "Memória RAM",
+                "detalhes2": "16 GB DDR4, 2666 MHz"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Chipset B450 (AMD) ou B360 (Intel)"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Cooler stock"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "imagem": "img/ResidentEvil4Remake.png",
+        "nome": "Resident Evil 4 Remake",
+        "explicacao1": "Para vivenciar o terror de Resident Evil 4 Remake em toda a sua glória visual, uma NVIDIA GeForce RTX 4080 ou AMD Radeon RX 7900 XTX proporciona gráficos em 4K com taxas de quadros suaves, além de efeitos avançados de ray tracing. O Intel Core i9-13900K ou AMD Ryzen 9 7900X garante uma jogabilidade fluida em ambientes intensos. Um SSD NVMe com 50 GB disponíveis reduz drasticamente o tempo de carregamento, enquanto 16 GB de RAM DDR5 (5200 MHz) oferecem desempenho de ponta. Para estabilidade e segurança, use uma fonte de 750W (80 Plus Platinum) e um water cooler de alta performance para manter temperaturas sob controle.",
+        "explicacao2": "Jogadores que desejam uma experiência de alta qualidade em 1440p podem confiar na NVIDIA GeForce RTX 3070 ou AMD Radeon RX 6800 XT. O Intel Core i7-12700K ou AMD Ryzen 7 5800X mantém o desempenho consistente. Um SSD NVMe com 50 GB garante um bom desempenho de carregamento, enquanto 16 GB de RAM DDR4 (3200 MHz) são mais que suficientes para o jogo e tarefas secundárias. A fonte de 650W (80 Plus Gold) e um cooler a ar de boa qualidade equilibram eficiência e custo.",
+        "explicacao3": "Para quem busca um desempenho aceitável em configurações mínimas, uma NVIDIA GeForce GTX 1060 ou AMD Radeon RX 580 roda o jogo em 1080p, com gráficos simplificados, mas mantendo a atmosfera do remake. Um Intel Core i5-9600K ou AMD Ryzen 5 3600 suporta a jogabilidade básica, enquanto um HDD com 50 GB disponíveis pode ser usado, embora com tempos de carregamento mais longos. 8 GB de RAM DDR4 é o mínimo recomendado para evitar travamentos. Uma fonte de 450W (80 Plus) e um cooler stock são suficientes para esta configuração.",
+        "descricao": "Resident Evil 4 Remake é um jogo de ação e sobrevivência em terceira pessoa, onde o protagonista Leon S. Kennedy, agora um agente do governo dos EUA, é enviado para resgatar a filha do presidente em uma aldeia isolada na Espanha. Lá, ele enfrenta um culto sinistro e criaturas monstruosas, enquanto tenta desvendar os segredos por trás da ameaça bioterrorista. Com gráficos renovados, jogabilidade aprimorada e mecânicas modernizadas, o remake oferece uma experiência mais imersiva e aterrorizante do clássico de 2005.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Vídeo",
+                "detalhes": "NVIDIA GeForce RTX 4080 ou AMD Radeon RX 7900 XTX"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i9-13900K ou AMD Ryzen 9 7900X"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD NVMe com 50 GB disponíveis"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "750W, certificação 80 Plus Platinum"
+            },
+            {
+                "caracteristica": "Memória RAM",
+                "detalhes": "16 GB DDR5, 5200 MHz"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Chipset Z790 (Intel) ou X670 (AMD)"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Water cooler de alta performance"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Vídeo",
+                "detalhes1": "NVIDIA GeForce RTX 3070 ou AMD Radeon RX 6800 XT"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i7-12700K ou AMD Ryzen 7 5800X"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "SSD NVMe com 50 GB disponíveis"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "650W, certificação 80 Plus Gold"
+            },
+            {
+                "caracteristica1": "Memória RAM",
+                "detalhes1": "16 GB DDR4, 3200 MHz"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Chipset Z690 (Intel) ou X570 (AMD)"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Cooler a ar de boa qualidade"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Vídeo",
+                "detalhes2": "NVIDIA GeForce GTX 1060 ou AMD Radeon RX 580"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core i5-9600K ou AMD Ryzen 5 3600"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "HDD com 50 GB disponíveis"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "450W, certificação 80 Plus"
+            },
+            {
+                "caracteristica2": "Memória RAM",
+                "detalhes2": "8 GB DDR4"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Chipset B450 (AMD) ou B360 (Intel)"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Cooler stock"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "imagem": "img/GodofWarRagnarök.png",
+        "nome": "God of War Ragnarök",
+        "explicacao1": "Para explorar os reinos nórdicos em 4K com gráficos impressionantes e desempenho suave, uma NVIDIA GeForce RTX 3080 ou AMD Radeon RX 6800 XT é ideal. O Intel Core i9-12900K ou AMD Ryzen 9 5900X assegura performance consistente em combates intensos e exploração. Um SSD NVMe com 120 GB disponíveis elimina tempos de carregamento, e 32 GB de RAM DDR5 (5600 MHz) proporcionam multitarefa eficiente. A fonte de 850W (80 Plus Gold) e um water cooler de alta performance mantêm o sistema estável, mesmo em jogos prolongados.",
+        "explicacao2": "Para uma experiência equilibrada em 1440p, a NVIDIA GeForce RTX 2070 ou AMD Radeon RX 5700 XT oferece qualidade gráfica excelente. O Intel Core i7-10700K ou AMD Ryzen 7 5800X é potente o suficiente para o combate e cinemáticas fluídas. Um SSD SATA com 120 GB mantém tempos de carregamento aceitáveis, enquanto 16 GB de RAM DDR4 (3200 MHz) são suficientes para o jogo e processos paralelos. A fonte de 650W (80 Plus Bronze) e um cooler a ar de boa qualidade fornecem eficiência com um custo reduzido.",
+        "explicacao3": "Para rodar o jogo em 1080p com ajustes gráficos reduzidos, a NVIDIA GeForce GTX 1060 ou AMD Radeon RX 580 oferece uma performance aceitável. O Intel Core i5-7600K ou AMD Ryzen 5 2600 suporta bem os requisitos mínimos. Um HDD com 120 GB disponíveis é funcional, embora mais lento, e 8 GB de RAM DDR4 é o suficiente para rodar o jogo. Com uma fonte de 500W (80 Plus) e um cooler stock, a configuração é ideal para sistemas econômicos.",
+        "descricao": "God of War Ragnarök é a sequência direta do aclamado God of War (2018), acompanhando Kratos e Atreus em sua jornada pelos reinos nórdicos enquanto tentam evitar o apocalipse conhecido como Ragnarök. Agora mais velho e questionador, Atreus busca entender seu papel como Loki, enquanto Kratos tenta protegê-lo e confrontar seu próprio passado violento. O jogo combina narrativa emocionante, combate visceral e exploração em mundos lindamente detalhados, com novos aliados e inimigos, incluindo deuses icônicos da mitologia nórdica como Thor e Odin. É uma história sobre família, destino e o custo das escolhas.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Vídeo",
+                "detalhes": "NVIDIA GeForce RTX 3080 ou AMD Radeon RX 6800 XT"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i9-12900K ou AMD Ryzen 9 5900X"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD NVMe com 120 GB disponíveis"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "850W, certificação 80 Plus Gold"
+            },
+            {
+                "caracteristica": "Memória RAM",
+                "detalhes": "32 GB DDR5, 5600 MHz"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Chipset Z690 (Intel) ou X670E (AMD)"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Water cooler de alta performance"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Vídeo",
+                "detalhes1": "NVIDIA GeForce RTX 2070 ou AMD Radeon RX 5700 XT"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i7-10700K ou AMD Ryzen 7 5800X"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "SSD SATA com 120 GB disponíveis"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "650W, certificação 80 Plus Bronze"
+            },
+            {
+                "caracteristica1": "Memória RAM",
+                "detalhes1": "16 GB DDR4, 3200 MHz"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Chipset B560 (Intel) ou B450 (AMD)"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Cooler a ar de boa qualidade"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Vídeo",
+                "detalhes2": "NVIDIA GeForce GTX 1060 ou AMD Radeon RX 580"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core i5-7600K ou AMD Ryzen 5 2600"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "HDD com 120 GB disponíveis"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "500W, certificação 80 Plus"
+            },
+            {
+                "caracteristica2": "Memória RAM",
+                "detalhes2": "8 GB DDR4"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Chipset básico compatível com o processador"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Cooler stock"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "imagem": "img/StarWarsJediSurvivor.png",
+        "nome": "Star Wars Jedi Survivor",
+        "explicacao1": "Para experimentar o universo de Star Wars em 4K com fluidez e gráficos espetaculares, a NVIDIA GeForce RTX 3080 ou AMD Radeon RX 6800 XT é essencial. O Intel Core i7-12700K ou AMD Ryzen 7 5800X garante performance impecável, especialmente em batalhas intensas e cenários repletos de detalhes. Um SSD NVMe com 155 GB disponíveis reduz significativamente os tempos de carregamento, enquanto 32 GB de RAM DDR5 (5200 MHz) proporcionam desempenho multitarefa de alto nível. A fonte de 750W (80 Plus Gold) e um water cooler de alta performance asseguram eficiência e resfriamento em longas sessões de jogo.",
+        "explicacao2": "Para uma experiência em 1440p com gráficos equilibrados e boa performance, a NVIDIA GeForce RTX 2070 ou AMD Radeon RX 6700 XT oferece um desempenho sólido. O Intel Core i7-8700K ou AMD Ryzen 5 3600 é mais que suficiente para lidar com as demandas do jogo. O SSD SATA com 155 GB mantém os tempos de carregamento aceitáveis, enquanto 16 GB de RAM DDR4 (3200 MHz) são ideais para um desempenho suave. A fonte de 650W (80 Plus Bronze) e um cooler a ar de boa qualidade equilibram custo e eficiência.",
+        "explicacao3": "Para rodar o jogo em 1080p com ajustes gráficos reduzidos, a NVIDIA GeForce GTX 1070 ou AMD Radeon RX 580 garante jogabilidade funcional. O Intel Core i5-9600K ou AMD Ryzen 3 3100 suporta bem os requisitos mínimos. Um HDD com 155 GB disponíveis é funcional, embora com tempos de carregamento mais longos, e 8 GB de RAM DDR4 atende às exigências básicas do jogo. A fonte de 500W (80 Plus) e um cooler stock tornam a configuração econômica e acessível.",
+        "descricao": "Star Wars Jedi: Survivor continua a jornada épica de Cal Kestis após os eventos de Jedi: Fallen Order. Agora mais experiente, Cal luta para sobreviver como um dos últimos Jedi enquanto enfrenta o Império Galáctico. O jogo combina combate com sabres de luz, habilidades da Força, exploração de planetas diversos e uma narrativa envolvente. Com gráficos aprimorados e novas mecânicas, a história mais madura explora o impacto da resistência, sacrifício e a luta por esperança em tempos sombrios.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Vídeo",
+                "detalhes": "NVIDIA GeForce RTX 3080 ou AMD Radeon RX 6800 XT"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i7-12700K ou AMD Ryzen 7 5800X"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD NVMe com 155 GB disponíveis"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "750W, certificação 80 Plus Gold"
+            },
+            {
+                "caracteristica": "Memória RAM",
+                "detalhes": "32 GB DDR5, 5200 MHz"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Chipset Z690 (Intel) ou X570 (AMD)"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Water cooler de alta performance"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Vídeo",
+                "detalhes1": "NVIDIA GeForce RTX 2070 ou AMD Radeon RX 6700 XT"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i7-8700K ou AMD Ryzen 5 3600"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "SSD SATA com 155 GB disponíveis"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "650W, certificação 80 Plus Bronze"
+            },
+            {
+                "caracteristica1": "Memória RAM",
+                "detalhes1": "16 GB DDR4, 3200 MHz"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Chipset B450 (AMD) ou B360 (Intel)"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Cooler a ar de boa qualidade"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Vídeo",
+                "detalhes2": "NVIDIA GeForce GTX 1070 ou AMD Radeon RX 580"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core i5-9600K ou AMD Ryzen 3 3100"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "HDD com 155 GB disponíveis"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "500W, certificação 80 Plus"
+            },
+            {
+                "caracteristica2": "Memória RAM",
+                "detalhes2": "8 GB DDR4"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Chipset básico compatível com o processador"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Cooler stock"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "imagem": "img/Fortnite.png",
+        "nome": "Fortnite",
+        "explicacao1": "Para aproveitar Fortnite ao máximo, com gráficos épicos e altas taxas de quadros (FPS) em resoluções 4K, a NVIDIA GeForce RTX 3080 ou AMD Radeon RX 6800 XT é essencial. O Intel Core i7-12700K ou AMD Ryzen 7 5800X garante excelente desempenho mesmo em partidas mais intensas. Um SSD NVMe com 100 GB disponíveis proporciona carregamentos rápidos, enquanto 32 GB de RAM DDR5 (5200 MHz) permite multitarefa eficiente. A fonte de 750W (80 Plus Gold) e o water cooler de alta performance mantêm o sistema estável e silencioso.",
+        "explicacao2": "Para quem busca um ótimo desempenho em 1080p ou 1440p, a NVIDIA GeForce GTX 1660 Super ou AMD Radeon RX 590 oferece taxas de quadros suaves com configurações gráficas equilibradas. O Intel Core i5-10400 ou AMD Ryzen 5 3600 é poderoso o suficiente para rodar Fortnite sem problemas. Um SSD SATA com 100 GB disponíveis garante tempos de carregamento mais rápidos, enquanto 16 GB de RAM DDR4 (3200 MHz) atende às necessidades do jogo. A fonte de 650W (80 Plus Bronze) e um cooler a ar de boa qualidade equilibram custo e eficiência.",
+        "explicacao3": "Para rodar Fortnite com configurações gráficas baixas em 1080p, a NVIDIA GeForce GTX 1050 Ti ou AMD Radeon RX 560 oferece uma experiência aceitável. O Intel Core i3-9100 ou AMD Ryzen 3 1200 é suficiente para partidas mais básicas. Um HDD com 100 GB disponíveis funciona, embora com tempos de carregamento mais lentos, e 8 GB de RAM DDR4 cobre os requisitos mínimos. A fonte de 450W (80 Plus) e o cooler stock tornam esta configuração econômica e acessível.",
+        "descricao": "Fortnite é um jogo de Battle Royale de grande sucesso, com gráficos vibrantes e jogabilidade dinâmica. Os jogadores competem em uma ilha para ser o último sobrevivente, utilizando construções estratégicas e uma variedade de armas. O jogo é otimizado para diferentes configurações de hardware, oferecendo uma experiência ajustável para jogadores com PCs de diversas especificações.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Vídeo",
+                "detalhes": "NVIDIA GeForce RTX 3080 ou AMD Radeon RX 6800 XT"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i7-12700K ou AMD Ryzen 7 5800X"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD NVMe com 100 GB disponíveis"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "750W, certificação 80 Plus Gold"
+            },
+            {
+                "caracteristica": "Memória RAM",
+                "detalhes": "32 GB DDR5, 5200 MHz"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Chipset Z690 (Intel) ou X570 (AMD)"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Water cooler de alta performance"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Vídeo",
+                "detalhes1": "NVIDIA GeForce GTX 1660 Super ou AMD Radeon RX 590"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i5-10400 ou AMD Ryzen 5 3600"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "SSD SATA com 100 GB disponíveis"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "650W, certificação 80 Plus Bronze"
+            },
+            {
+                "caracteristica1": "Memória RAM",
+                "detalhes1": "16 GB DDR4, 3200 MHz"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Chipset B450 (AMD) ou B360 (Intel)"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Cooler a ar de boa qualidade"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Vídeo",
+                "detalhes2": "NVIDIA GeForce GTX 1050 Ti ou AMD Radeon RX 560"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core i3-9100 ou AMD Ryzen 3 1200"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "HDD com 100 GB disponíveis"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "450W, certificação 80 Plus"
+            },
+            {
+                "caracteristica2": "Memória RAM",
+                "detalhes2": "8 GB DDR4"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Chipset básico compatível com o processador"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Cooler stock"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "imagem": "img/LeagueofLegends.png",
+        "nome": "League of Legends",
+        "explicacao1": "Para uma experiência impecável em League of Legends, com gráficos de alta qualidade e altas taxas de quadros em resoluções 1080p ou 1440p, a NVIDIA GeForce GTX 560 ou AMD Radeon HD 6950 oferece o desempenho necessário. O Intel Core i5-6600K ou AMD Ryzen 3 1200 é capaz de lidar com o jogo em configurações máximas sem engasgos. Com um SSD de 16 GB disponíveis, você garante carregamentos rápidos entre partidas. A memória RAM de 8 GB DDR4 (2666 MHz) é ideal para multitarefa e jogabilidade fluida. A fonte de 500W (80 Plus) e o cooler a ar de qualidade intermediária asseguram estabilidade e resfriamento adequado.",
+        "explicacao2": "Para quem busca bom desempenho em League of Legends com gráficos em 1080p e configurações médias, a NVIDIA GeForce GT 1030 ou AMD Radeon HD 6450 é uma escolha sólida. O Intel Core i3-4130 ou AMD FX-4300 garante um desempenho estável em partidas normais. Um HDD de 16 GB disponíveis é suficiente, embora com tempos de carregamento mais longos. A memória RAM de 4 GB DDR3 é o mínimo necessário para rodar o jogo de forma aceitável, e a fonte de 400W (80 Plus) com o cooler stock oferece o básico para manter o sistema funcionando sem excessos.",
+        "explicacao3": "Para rodar League of Legends em configurações gráficas baixas e com resolução 720p, a Intel HD Graphics 4600 ou AMD Radeon Vega 3 é suficiente para o básico. O Intel Core 2 Duo E8400 ou AMD Athlon 64 X2 6000+ ainda consegue rodar o jogo com as mínimas exigências. Um HDD com 16 GB disponíveis será necessário, embora com tempos de carregamento mais demorados. A memória RAM de 2 GB DDR2 atende ao mínimo para o jogo, e a fonte de 450W (80 Plus) com cooler stock oferece uma solução acessível para quem busca uma jogabilidade mais simples e sem grandes recursos.",
+        "descricao": "League of Legends é um dos MOBAs mais populares do mundo, oferecendo uma experiência competitiva intensa com uma ampla seleção de campeões únicos. Enfrente oponentes em combates estratégicos, dominando habilidades e explorando diversas táticas em partidas dinâmicas. O jogo é altamente otimizado e acessível, funcionando em uma variedade de configurações de hardware.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Vídeo",
+                "detalhes": "NVIDIA GeForce GTX 560 ou AMD Radeon HD 6950"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i5-6600K ou AMD Ryzen 3 1200"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD com 16 GB disponíveis"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "500W, certificação 80 Plus"
+            },
+            {
+                "caracteristica": "Memória RAM",
+                "detalhes": "8 GB DDR4, 2666 MHz"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Chipset B250 ou AM4 básico"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Cooler a ar de qualidade intermediária"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Vídeo",
+                "detalhes1": "NVIDIA GeForce GT 1030 ou AMD Radeon HD 6450"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i3-4130 ou AMD FX-4300"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "HDD com 16 GB disponíveis"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "400W, certificação 80 Plus"
+            },
+            {
+                "caracteristica1": "Memória RAM",
+                "detalhes1": "4 GB DDR3"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Chipset básico compatível com o processador"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Cooler stock"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Vídeo",
+                "detalhes2": "Intel HD Graphics 4600 ou AMD Radeon Vega 3"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core 2 Duo E8400 ou AMD Athlon 64 X2 6000+"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "HDD com 16 GB disponíveis"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "Sem necessidade de fonte adicional para gráficos integrados"
+            },
+            {
+                "caracteristica2": "Memória RAM",
+                "detalhes2": "2 GB DDR2"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Chipset básico integrado"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Refrigeração padrão"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "imagem": "img/Dota2.png",
+        "nome": "Dota 2",
+        "explicacao1": "Para jogar Dota 2 com gráficos de alta qualidade e desempenho fluido em resoluções de até 1080p ou 1440p, a NVIDIA GeForce GTX 1060 ou AMD Radeon RX 580 são ideais para garantir altas taxas de quadros. O Intel Core i7-8700 ou AMD Ryzen 5 3600 oferece desempenho superior, suportando o jogo em sua configuração máxima. Um SSD de 30 GB disponíveis proporciona tempos de carregamento rápidos e melhoria geral na experiência. A memória RAM de 16 GB DDR4 (3200 MHz) é mais do que suficiente para multitarefa eficiente e um desempenho estável. A fonte de 500W (80 Plus) e o cooler líquido ou a ar premium mantêm o sistema em temperatura ideal e garantem estabilidade mesmo em sessões mais longas.",
+        "explicacao2": "Para uma boa experiência em Dota 2 com gráficos em 1080p e configurações médias, a NVIDIA GeForce GTX 750 Ti ou AMD Radeon R7 360 é uma opção que oferece um bom equilíbrio entre custo e desempenho. O Intel Core i5-4460 ou AMD FX-8350 é suficiente para rodar o jogo de maneira suave. Um HDD de 30 GB disponíveis garante o armazenamento necessário, embora com carregamentos mais lentos em comparação com SSDs. A memória RAM de 8 GB DDR3 é adequada para as necessidades do jogo. A fonte de 450W (80 Plus) e o cooler a ar de qualidade intermediária ajudam a manter o sistema eficiente, mas com custo reduzido.",
+        "explicacao3": "Para rodar Dota 2 em configurações baixas e em resoluções 720p, a Intel HD Graphics 4000 ou AMD Radeon HD 5450 pode ser suficiente para o básico, embora com gráficos e taxa de quadros limitados. O Intel Core 2 Duo E7500 ou AMD Athlon 64 X2 5600+ cumpre os requisitos mínimos do jogo, mas não oferece a melhor performance. Um HDD de 30 GB disponíveis será necessário para armazenar o jogo, mas com desempenho mais lento. A memória RAM de 4 GB DDR2 é o mínimo exigido. A fonte de 450W (80 Plus) e o cooler stock mantêm o sistema funcional, mas sem recursos adicionais para overclock ou grande desempenho.",
+        "descricao": "Dota 2 é um dos MOBAs mais icônicos do mundo, oferecendo uma experiência desafiadora e profunda com heróis variados e mecânicas estratégicas. Com gráficos aprimorados e jogabilidade fluida, o jogo pode ser ajustado para atender desde configurações modestas até sistemas de alto desempenho.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Vídeo",
+                "detalhes": "NVIDIA GeForce GTX 1060 ou AMD Radeon RX 580"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i7-8700 ou AMD Ryzen 5 3600"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD com 30 GB disponíveis"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "500W, certificação 80 Plus"
+            },
+            {
+                "caracteristica": "Memória RAM",
+                "detalhes": "16 GB DDR4, 3200 MHz"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Chipset Z370 ou AM4 intermediário"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Cooler líquido ou cooler a ar premium"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Vídeo",
+                "detalhes1": "NVIDIA GeForce GTX 750 Ti ou AMD Radeon R7 360"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i5-4460 ou AMD FX-8350"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "HDD com 30 GB disponíveis"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "450W, certificação 80 Plus"
+            },
+            {
+                "caracteristica1": "Memória RAM",
+                "detalhes1": "8 GB DDR3"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Chipset básico compatível com o processador"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Cooler a ar de qualidade intermediária"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Vídeo",
+                "detalhes2": "Intel HD Graphics 4000 ou AMD Radeon HD 5450"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core 2 Duo E7500 ou AMD Athlon 64 X2 5600+"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "HDD com 30 GB disponíveis"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "Sem necessidade de fonte adicional para gráficos integrados"
+            },
+            {
+                "caracteristica2": "Memória RAM",
+                "detalhes2": "4 GB DDR2"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Chipset básico integrado"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Refrigeração padrão"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "imagem": "img/AssassinsCreedShadows.png",
+        "nome": "Assassin's Creed Shadows",
+        "explicacao1": "Para aproveitar Assassin's Creed Shadows com gráficos ultra e Ray Tracing ativado em 4K, a NVIDIA RTX 3080 ou AMD Radeon RX 6800 XT é a escolha ideal para garantir uma experiência visual impressionante. O Intel Core i9-11900K ou AMD Ryzen 7 5800X garante alto desempenho, até nas cenas mais exigentes do jogo. Com 32 GB de RAM DDR4, o sistema mantém um desempenho fluido durante longas sessões de jogo. O SSD NVMe com 100 GB livres oferece carregamentos rápidos e acesso ágil aos dados. Uma fonte de 750W (80 Plus Gold) e o cooler líquido de alto desempenho asseguram estabilidade e resfriamento eficiente, mesmo sob carga intensa.",
+        "explicacao2": "Para uma experiência sólida em Assassin's Creed Shadows em 1080p e gráficos médios, a NVIDIA GTX 2070 ou AMD RX 5700XT oferece boa performance com uma boa taxa de quadros. O Intel Core i7-8700K ou AMD Ryzen 5 3600 garante um equilíbrio entre desempenho e custo, proporcionando uma experiência suave durante a jogabilidade. Com 16 GB de RAM DDR4, o sistema lida bem com as necessidades do jogo. Um SSD com 100 GB livres oferece tempos de carregamento rápidos. A fonte de 650W (80 Plus Bronze) e o cooler a ar intermediário garantem que o sistema funcione de forma eficiente, equilibrando custo e desempenho.",
+        "explicacao3": "Para rodar Assassin's Creed Shadows com gráficos baixos em 720p, a NVIDIA GTX 1060 6 GB ou AMD RX 570 4 GB é suficiente para rodar o jogo, mas com gráficos limitados e menor taxa de quadros. O Intel Core i7-4790 ou AMD Ryzen 5 1600 atende aos requisitos básicos, mas pode ter dificuldades em rodar o jogo em configurações mais altas. Com 8 GB de RAM DDR4, o desempenho será suficiente para o básico. Um HDD ou SSD com 100 GB livres será necessário, mas com performance mais lenta no carregamento. A fonte de 500W (80 Plus) e o sistema de resfriamento padrão mantêm o sistema funcionando sem grandes picos de performance ou overclock.",
+        "descricao": "Assassin's Creed Shadows é a nova edição da aclamada franquia, apresentando um mundo aberto detalhado, enredo cativante e gráficos de ponta, ajustáveis para várias configurações de hardware.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Vídeo",
+                "detalhes": "NVIDIA RTX 3080 ou AMD Radeon RX 6800 XT"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i9-11900K ou AMD Ryzen 7 5800X"
+            },
+            {
+                "caracteristica": "Memória RAM",
+                "detalhes": "32 GB DDR4"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD NVMe com 100 GB livres"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "750W, certificação 80 Plus Gold"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Cooler líquido de alto desempenho"
+            },
+            {
+                "caracteristica": "Resolução e Gráficos",
+                "detalhes": "4K, gráficos ultra, Ray Tracing ativado"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Vídeo",
+                "detalhes1": "NVIDIA GTX 2070 ou AMD RX 5700XT"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i7-8700K ou AMD Ryzen 5 3600"
+            },
+            {
+                "caracteristica1": "Memória RAM",
+                "detalhes1": "16 GB DDR4"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "SSD com 100 GB livres"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "650W, certificação 80 Plus Bronze"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Cooler a ar intermediário"
+            },
+            {
+                "caracteristica1": "Resolução e Gráficos",
+                "detalhes1": "1080p, gráficos médios"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Vídeo",
+                "detalhes2": "NVIDIA GTX 1060 6 GB ou AMD RX 570 4 GB"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core i7-4790 ou AMD Ryzen 5 1600"
+            },
+            {
+                "caracteristica2": "Memória RAM",
+                "detalhes2": "8 GB DDR4"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "HDD ou SSD com 100 GB livres"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "500W, certificação 80 Plus"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Refrigeração padrão"
+            },
+            {
+                "caracteristica2": "Resolução e Gráficos",
+                "detalhes2": "720p, gráficos baixos"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "imagem": "img/BattlefieldV.png",
+        "nome": "Battlefield™ V",
+        "explicacao1": "Para jogar Battlefield™ V com gráficos ultra em 4K, recomenda-se uma NVIDIA GeForce RTX 2080 ou AMD Radeon RX 6800, processador Intel Core i9-9900K ou AMD Ryzen 7 3700X, 16 GB de RAM DDR4 a 3200 MHz ou superior e um SSD com pelo menos 50 GB livres. Uma fonte de 650W (certificação 80 Plus Gold) e um cooler líquido garantem eficiência energética e estabilidade térmica.",
+        "explicacao2": "Para gráficos médios em 1080p, a NVIDIA GeForce GTX 1060 ou AMD Radeon RX 580 é ideal, junto com um Intel Core i7-8700 ou AMD Ryzen 5 2600, 12 GB de RAM DDR4 a 2666 MHz e 50 GB de armazenamento em HDD ou SSD. Uma fonte de 550W (certificação 80 Plus) e um cooler a ar premium mantêm a estabilidade.",
+        "explicacao3": "Para gráficos baixos em 720p, uma NVIDIA GeForce GTX 750 Ti ou AMD Radeon R7 360, Intel Core i5-4460 ou AMD FX-8350, e 8 GB de RAM DDR3 são suficientes. O armazenamento pode ser um HDD com 50 GB, com uma fonte de 450W e um cooler padrão para atender às necessidades básicas.",
+        "descricao": "Battlefield™ V oferece uma experiência de guerra imersiva com gráficos deslumbrantes, ambientes dinâmicos e mecânicas de combate realistas. O jogo pode ser ajustado para diferentes níveis de desempenho, proporcionando diversão tanto em sistemas de ponta quanto em máquinas mais modestas.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Vídeo",
+                "detalhes": "NVIDIA GeForce RTX 2080 ou AMD Radeon RX 6800"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i9-9900K ou AMD Ryzen 7 3700X"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD com 50 GB disponíveis"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "650W, certificação 80 Plus Gold"
+            },
+            {
+                "caracteristica": "Memória RAM",
+                "detalhes": "16 GB DDR4, 3200 MHz ou superior"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Chipset Z390 ou AM4 premium"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Cooler líquido de alta performance"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Vídeo",
+                "detalhes1": "NVIDIA GeForce GTX 1060 ou AMD Radeon RX 580"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i7-8700 ou AMD Ryzen 5 2600"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "HDD ou SSD com 50 GB disponíveis"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "550W, certificação 80 Plus"
+            },
+            {
+                "caracteristica1": "Memória RAM",
+                "detalhes1": "12 GB DDR4, 2666 MHz"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Chipset intermediário compatível com o processador"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Cooler a ar premium"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Vídeo",
+                "detalhes2": "NVIDIA GeForce GTX 750 Ti ou AMD Radeon R7 360"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core i5-4460 ou AMD FX-8350"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "HDD com 50 GB disponíveis"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "450W, certificação 80 Plus"
+            },
+            {
+                "caracteristica2": "Memória RAM",
+                "detalhes2": "8 GB DDR3"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Chipset básico compatível com o processador"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Cooler padrão"
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "imagem": "img/TheForest.png",
+        "nome": "The Forest",
+        "explicacao1": "Para rodar The Forest com gráficos de alta qualidade e resolução 4K, a NVIDIA GeForce GTX 1070 ou AMD Radeon RX Vega 56 oferece um desempenho gráfico excelente, garantindo uma experiência visual imersiva. O Intel Core i7-7700 ou AMD Ryzen 5 3600 fornece a potência necessária para rodar o jogo com fluidez, mesmo em cenas complexas. Com 16 GB de RAM DDR4 (3200 MHz), o sistema se mantém ágil e responsivo durante sessões de jogo longas. O SSD com 15 GB livres oferece tempos de carregamento rápidos e uma experiência sem falhas. A fonte de 550W (80 Plus Gold) e o cooler líquido ou cooler a ar premium mantêm o sistema estável e com temperaturas controladas.",
+        "explicacao2": "Para uma experiência sólida em 1080p com gráficos médios, a NVIDIA GeForce GTX 970 ou AMD Radeon R9 390 é suficiente para garantir uma taxa de quadros estável. O Intel Core i5-4460 ou AMD Ryzen 3 1200 oferece um bom equilíbrio entre desempenho e preço, permitindo que você aproveite o jogo sem grandes quedas de desempenho. Com 8 GB de RAM DDR3, o sistema pode lidar com as exigências do jogo sem sobrecarregar. Um HDD com 15 GB livres vai funcionar, mas com tempos de carregamento mais lentos. A fonte de 500W (80 Plus) e o cooler a ar de boa qualidade equilibram eficiência e custo.",
+        "explicacao3": "Para rodar The Forest com gráficos baixos em 720p, a NVIDIA GeForce GTX 660 ou AMD Radeon HD 7850 pode ser suficiente para uma experiência jogável, mas com gráficos reduzidos e taxas de quadros mais baixas. O Intel Core 2 Quad Q6600 ou AMD Phenom II X4 945 vai atender aos requisitos mínimos, mas o desempenho será limitado. Com 4 GB de RAM DDR2, o sistema pode enfrentar limitações ao lidar com grandes cenas ou múltiplos elementos no jogo. O HDD com 15 GB livres funcionará para armazenamento, mas será mais lento nos tempos de carregamento. A fonte de 450W (80 Plus) e o sistema de refrigeração padrão mantêm o funcionamento estável para jogos mais leves.",
+        "descricao": "The Forest é um jogo de sobrevivência em mundo aberto com gráficos imersivos e jogabilidade intensa. Explore, construa e lute contra inimigos desafiadores enquanto descobre os segredos de uma ilha misteriosa. O jogo oferece configurações adaptáveis para diversos níveis de hardware, permitindo uma experiência otimizada para cada jogador.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Vídeo",
+                "detalhes": "NVIDIA GeForce GTX 1070 ou AMD Radeon RX Vega 56"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i7-7700 ou AMD Ryzen 5 3600"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD com 15 GB disponíveis"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "550W, certificação 80 Plus Gold"
+            },
+            {
+                "caracteristica": "Memória RAM",
+                "detalhes": "16 GB DDR4, 3200 MHz"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Chipset Z390 ou AM4 de alta performance"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Cooler líquido ou cooler a ar premium"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Vídeo",
+                "detalhes1": "NVIDIA GeForce GTX 970 ou AMD Radeon R9 390"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i5-4460 ou AMD Ryzen 3 1200"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "HDD com 15 GB disponíveis"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "500W, certificação 80 Plus"
+            },
+            {
+                "caracteristica1": "Memória RAM",
+                "detalhes1": "8 GB DDR3"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Chipset intermediário compatível com o processador"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Cooler a ar de boa qualidade"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Vídeo",
+                "detalhes2": "NVIDIA GeForce GTX 660 ou AMD Radeon HD 7850"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core 2 Quad Q6600 ou AMD Phenom II X4 945"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "HDD com 15 GB disponíveis"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "450W, certificação 80 Plus"
+            },
+            {
+                "caracteristica2": "Memória RAM",
+                "detalhes2": "4 GB DDR2"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Chipset básico compatível"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Refrigeração padrão"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "imagem": "img/Panicore.png",
+        "nome": "Panicore",
+        "explicacao1": "Para rodar Panicore com gráficos ultra e resolução 4K, a NVIDIA GeForce RTX 3080 ou AMD Radeon RX 6900 XT oferece desempenho gráfico de última geração, permitindo gráficos detalhados e taxas de quadros constantes, até nas situações mais intensas. O Intel Core i9-12900K ou AMD Ryzen 9 5950X garante desempenho excepcional em multitarefa e em cenários de alto processamento, sem engasgos. Com 32 GB de RAM DDR5 (5200 MHz), o sistema estará pronto para lidar com qualquer carga de trabalho, incluindo a execução simultânea de várias aplicações. O SSD NVMe com 50 GB livres proporciona tempos de carregamento quase instantâneos e desempenho geral rápido. A fonte de 750W (80 Plus Gold) e o cooler líquido de 360 mm garantem estabilidade e resfriamento eficaz, mantendo o sistema em temperaturas ideais durante sessões de jogo prolongadas.",
+        "explicacao2": "Para uma experiência sólida em 1080p ou 1440p com gráficos médios, a NVIDIA GeForce RTX 2060 ou AMD Radeon RX 5600 XT oferece boa performance, mantendo taxas de quadros estáveis em configurações balanceadas. O Intel Core i5-11600K ou AMD Ryzen 5 5600X é eficiente o suficiente para rodar o jogo com bom desempenho, sem gargalos. Com 16 GB de RAM DDR4 (3200 MHz), o sistema garante performance suave, mantendo o jogo e outras tarefas em andamento. O SSD SATA com 50 GB livres oferece carregamentos rápidos e espaço suficiente para o jogo e dados essenciais. A fonte de 600W (80 Plus Bronze) e o cooler a ar de alta eficiência mantêm o sistema refrigerado e com um bom custo-benefício.",
+        "explicacao3": "Para rodar Panicore com gráficos baixos em 720p, a NVIDIA GeForce GTX 1050 ou AMD Radeon RX 460 oferece uma experiência jogável, porém com qualidade gráfica reduzida e taxas de quadros mais baixas. O Intel Core i3-9100 ou AMD Ryzen 3 2200G é suficiente para atender aos requisitos mínimos, mas pode apresentar limitações em momentos de maior demanda gráfica. Com 8 GB de RAM DDR4 (2400 MHz), o sistema ainda consegue executar o jogo, mas com um desempenho mais modesto. O HDD com 50 GB livres é adequado para armazenar o jogo, mas resulta em tempos de carregamento mais lentos. A fonte de 450W (80 Plus) e o sistema de refrigeração padrão mantêm o custo baixo, mas sem comprometer a estabilidade geral.",
+        "descricao": "Panicore é um jogo intenso e imersivo, oferecendo uma experiência visualmente rica e cheia de ação. Ele apresenta gráficos impressionantes e mecânicas exigentes, adaptáveis a diferentes níveis de hardware, permitindo que jogadores com configurações variadas desfrutem do título.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Vídeo",
+                "detalhes": "NVIDIA GeForce RTX 3080 ou AMD Radeon RX 6900 XT"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i9-12900K ou AMD Ryzen 9 5950X"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD NVMe com 50 GB disponíveis"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "750W, certificação 80 Plus Gold"
+            },
+            {
+                "caracteristica": "Memória RAM",
+                "detalhes": "32 GB DDR5, 5200 MHz"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Chipset Z690 ou X570 avançado"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Cooler líquido de 360 mm"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Vídeo",
+                "detalhes1": "NVIDIA GeForce RTX 2060 ou AMD Radeon RX 5600 XT"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i5-11600K ou AMD Ryzen 5 5600X"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "SSD SATA com 50 GB disponíveis"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "600W, certificação 80 Plus Bronze"
+            },
+            {
+                "caracteristica1": "Memória RAM",
+                "detalhes1": "16 GB DDR4, 3200 MHz"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Chipset B560 ou B450 intermediário"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Cooler a ar de alta eficiência"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Vídeo",
+                "detalhes2": "NVIDIA GeForce GTX 1050 ou AMD Radeon RX 460"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core i3-9100 ou AMD Ryzen 3 2200G"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "HDD com 50 GB disponíveis"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "450W, certificação 80 Plus"
+            },
+            {
+                "caracteristica2": "Memória RAM",
+                "detalhes2": "8 GB DDR4, 2400 MHz"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Chipset básico compatível com o processador"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Refrigeração padrão"
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "imagem": "img/FarCry6.png",
+        "nome": "Far Cry 6",
+        "explicacao1": "Para rodar Far Cry 6 com gráficos ultra em 4K, a NVIDIA GeForce RTX 3080 ou AMD Radeon RX 6800 XT garante um desempenho gráfico de ponta, capaz de renderizar o mundo aberto detalhado de maneira fluida e sem interrupções. O Intel Core i9-11900K ou AMD Ryzen 7 5800X oferecem processadores poderosos, ideais para lidar com o jogo e tarefas em segundo plano sem qualquer gargalo. A memória RAM de 16 GB DDR4 (3200 MHz) proporciona ampla capacidade para multitarefa, sem afetar o desempenho do jogo. O SSD de 60 GB livres acelera o tempo de carregamento do jogo e melhora o desempenho geral do sistema. A fonte de 750W (80 Plus Gold) oferece energia suficiente para alimentar os componentes de alto desempenho, enquanto o sistema de resfriamento de alta qualidade (cooler líquido ou cooler a ar premium) mantém os componentes resfriados durante longas sessões de jogo.",
+        "explicacao2": "Para uma boa experiência em 1080p com gráficos médios, a NVIDIA GeForce GTX 1660 Ti ou AMD Radeon RX 5600 XT oferece uma boa performance, equilibrando a qualidade gráfica com taxas de quadros constantes. O Intel Core i7-7700 ou AMD Ryzen 5 3600 são processadores intermediários que oferecem boa performance, ideal para jogos modernos sem grandes quedas de desempenho. Com 16 GB de RAM DDR4 (2666 MHz), o sistema oferece um bom equilíbrio entre capacidade e velocidade, permitindo jogar sem interrupções. O SSD de 60 GB livres acelera os tempos de carregamento do jogo. A fonte de 550W (80 Plus) garante energia suficiente para o sistema, enquanto o cooler a ar de qualidade intermediária mantém a temperatura dos componentes sob controle.",
+        "explicacao3": "Para rodar Far Cry 6 com gráficos baixos em 720p, a NVIDIA GeForce GTX 960 ou AMD Radeon R9 380 oferecem uma experiência jogável, porém com gráficos reduzidos e taxas de quadros mais baixas. O Intel Core i5-4590 ou AMD Ryzen 3 1200 são processadores mais modestos, adequados para rodar o jogo em configurações mais simples. Com 8 GB de RAM DDR4, o sistema tem capacidade suficiente para jogos de qualidade inferior, mas pode enfrentar lentidão em multitarefa. O HDD com 60 GB livres oferece capacidade de armazenamento, mas com tempos de carregamento mais lentos em comparação com um SSD. A fonte de 500W (80 Plus) é adequada para o sistema, e o sistema de refrigeração padrão mantém os componentes operando a temperaturas razoáveis.",
+        "descricao": "Far Cry 6 oferece uma experiência imersiva em um mundo aberto com gráficos detalhados, jogabilidade dinâmica e uma história envolvente. O jogo exige bom desempenho de hardware, com diferentes configurações para proporcionar a melhor experiência dependendo do seu sistema.",
+        "detalhes": [
+            {
+                "caracteristica": "Placa de Vídeo",
+                "detalhes": "NVIDIA GeForce RTX 3080 ou AMD Radeon RX 6800 XT"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i9-11900K ou AMD Ryzen 7 5800X"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "SSD com 60 GB disponíveis"
+            },
+            {
+                "caracteristica": "Fonte",
+                "detalhes": "750W, certificação 80 Plus Gold"
+            },
+            {
+                "caracteristica": "Memória RAM",
+                "detalhes": "16 GB DDR4, 3200 MHz"
+            },
+            {
+                "caracteristica": "Placa Mãe",
+                "detalhes": "Chipset Z590 ou X570"
+            },
+            {
+                "caracteristica": "Sistema de Resfriamento",
+                "detalhes": "Cooler líquido ou cooler a ar premium"
+            }
+        ],
+        "detalhes1": [
+            {
+                "caracteristica1": "Placa de Vídeo",
+                "detalhes1": "NVIDIA GeForce GTX 1660 Ti ou AMD Radeon RX 5600 XT"
+            },
+            {
+                "caracteristica1": "Processador",
+                "detalhes1": "Intel Core i7-7700 ou AMD Ryzen 5 3600"
+            },
+            {
+                "caracteristica1": "Armazenamento",
+                "detalhes1": "SSD com 60 GB disponíveis"
+            },
+            {
+                "caracteristica1": "Fonte",
+                "detalhes1": "550W, certificação 80 Plus"
+            },
+            {
+                "caracteristica1": "Memória RAM",
+                "detalhes1": "16 GB DDR4, 2666 MHz"
+            },
+            {
+                "caracteristica1": "Placa Mãe",
+                "detalhes1": "Chipset B360 ou B450"
+            },
+            {
+                "caracteristica1": "Sistema de Resfriamento",
+                "detalhes1": "Cooler a ar de qualidade intermediária"
+            }
+        ],
+        "detalhes2": [
+            {
+                "caracteristica2": "Placa de Vídeo",
+                "detalhes2": "NVIDIA GeForce GTX 960 ou AMD Radeon R9 380"
+            },
+            {
+                "caracteristica2": "Processador",
+                "detalhes2": "Intel Core i5-4590 ou AMD Ryzen 3 1200"
+            },
+            {
+                "caracteristica2": "Armazenamento",
+                "detalhes2": "HDD com 60 GB disponíveis"
+            },
+            {
+                "caracteristica2": "Fonte",
+                "detalhes2": "500W, certificação 80 Plus"
+            },
+            {
+                "caracteristica2": "Memória RAM",
+                "detalhes2": "8 GB DDR4"
+            },
+            {
+                "caracteristica2": "Placa Mãe",
+                "detalhes2": "Chipset básico compatível com o processador"
+            },
+            {
+                "caracteristica2": "Sistema de Resfriamento",
+                "detalhes2": "Refrigeração padrão"
+            }
+        ]
+    }
+]

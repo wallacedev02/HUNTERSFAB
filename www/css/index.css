@@ -1,0 +1,258 @@
+:root {
+    /* Definição de variáveis de cor */
+    --vermelho: #aa0000;
+    --azul: #2188e9;
+    --preto: #000000;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+/* Importando a fonte Bebas Neue do Google Fonts */
+
+body {
+    font-family: "Bebas Neue", sans-serif;
+    /* Definindo a fonte Bebas Neue para o corpo do site */
+}
+
+.toolbar {
+    height: 80px;
+    /* Definindo a altura da barra de ferramentas */
+}
+
+.tab-link {
+    display: flex;
+    justify-content: center;
+    flex-flow: column wrap;
+    /* Estilo para os links de abas, centralizando e organizando em colunas */
+}
+
+.toolbar-inner {
+    background: rgb(145, 5, 5);
+    border: 1px solid rgb(145, 5, 5);
+
+    /* Definindo o estilo da barra interna com bordas */
+}
+
+.toolbar-inner .link {
+    flex: 1;
+    height: 80px;
+    line-height: 25px;
+    font-weight: bold;
+    color: #000000;
+    ;
+    /* Links com altura, cor e negrito */
+}
+
+.toolbar-inner .link:not(.active) {
+    color: var(--preto);
+    font-weight: normal;
+    /* Links não ativos terão cor preta e fonte normal */
+}
+
+.toolbar-inner>.link i {
+    font-size: 28px;
+    /* Definindo o tamanho da fonte dos ícones */
+}
+
+.top-nav,
+.top-nav2,
+.top-nav3 {
+    text-align: center;
+    padding: 2px 0;
+    height: auto;
+    overflow: hidden;
+    background-color: rgb(145, 5, 5);
+    /* Navegação superior centralizada e com padding */
+}
+
+form {
+    padding-top: 5px;
+    background: var(--branco);
+    padding-bottom: 20px;
+    position: relative;
+    margin-top: 5px;
+    /* Estilo para o formulário com margens e espaçamentos */
+}
+
+input[type="text"] {
+    width: 90%;
+    height: 45px;
+    border-radius: 10px;
+    margin: auto;
+    padding: 10px 20px;
+    background: var(--branco);
+    /* Estilo para o campo de texto com largura e padding */
+}
+
+.imagem-logo {
+    display: block;
+    width: 200px;
+    height: auto;
+    margin: 0 auto;
+    margin-bottom: 8px;
+    object-fit: contain;
+    /* Estilo para as imagens de logo com centralização e tamanho */
+}
+
+::placeholder {
+    color: #b3afaf;
+    /* Cor do texto do placeholder no campo de texto */
+}
+
+.page-content {
+    background: var(--preto);
+    /* Fundo branco para o conteúdo da página */
+}
+
+.swiper-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 250px;
+    /* altura do slide */
+}
+
+.swiper-slide img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    /* mantém proporção sem cortar */
+}
+
+.swiper-slide2 img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    /* Imagem no slide com ajuste ao tamanho do contêiner */
+}
+
+.img-fluid {
+    max-width: 100%;
+    /* Imagem responsiva */
+}
+
+.block {
+    margin-left: 5%;
+    margin-right: 5%;
+    /* Margem nas laterais para blocos de conteúdo */
+}
+
+.filter-btn {
+    width: 100%;
+    height: 35px;
+    background: none;
+    border: 2px solid var(--preto);
+    border-radius: 10px;
+    text-align: center;
+    display: block;
+    padding: 0 10px;
+    /* Estilo para o botão de filtro com bordas, padding e largura */
+}
+
+.filter-btn.active {
+    background-color: #2188e9;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    /* Estilo para o botão ativo com cor de fundo e padding */
+}
+
+.filter-btn.active:hover {
+    background-color: #186bb5;
+    /* Cor de fundo ao passar o mouse sobre o botão ativo */
+}
+
+.row {
+    flex-wrap: wrap;
+    flex-direction: row;
+    /* Estilo para linhas flexíveis */
+}
+
+.jogo {
+    color: var(--preto);
+    /* Estilo para o texto relacionado ao jogo com cor preta */
+}
+
+.jogo-card {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    height: 200px;
+    flex: 45%;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    margin-top: -20px;
+    justify-content: space-around;
+    /* Estilo dos cartões de jogo com layout flexível e margens */
+}
+
+.img-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 150px;
+    border-radius: 10px;
+    background: var(--branco);
+    /* Contêiner da imagem com fundo e centralização */
+}
+
+.nome-rating {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    /* Centralização do nome e avaliação do jogo */
+}
+
+.title-jogo {
+    text-align: center;
+    margin-bottom: 20px;
+    /* Título do jogo centralizado */
+}
+
+.texto {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+@media (max-width: 300px) {
+    #jogos {
+        grid-template-columns: repeat(2, 1fr);
+        /* Layout de grade para dispositivos com largura menor que 300px */
+    }
+}
+
+@media (min-width:992px) {
+    .jogo-card {
+        flex: 30%;
+        /* Ajuste do tamanho do cartão de jogo para telas maiores */
+    }
+}
+
+@media (min-width:1200px) {
+    .jogo-card {
+        flex: 20%;
+        /* Ajuste do tamanho do cartão de jogo para telas extra grandes */
+    }
+}
+
+.call {
+    .swiper-slide {
+        display: flex;
+        /* Habilita o uso de flexbox */
+        justify-content: center;
+        /* Centraliza horizontalmente a imagem */
+        align-items: center;
+        /* Centraliza verticalmente a imagem */
+        height: 100%;
+        /* Mantém a altura do slide */
+    }
+}
+
+.page {
+    overflow: auto;
+}

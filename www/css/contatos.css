@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    color: #000000;
+}
+
+/* Estilo específico para a tabela da página de contatos */
+.page[data-name="contatos"] .texto table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.page[data-name="contatos"] .texto th,
+.page[data-name="contatos"] .texto td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+
+.page[data-name="contatos"] .texto th {
+    background-color: #2188e9;
+    color: white;
+}
+
+.page[data-name="contatos"] .texto tr:hover {
+    background-color: #f1f1f1;
+}
+
+/* Estilo para a div "texto" */
+.texto {
+    overflow-y: auto;
+    /* Adiciona rolagem vertical */
+    height: 100vh;
+    /* Define a altura como a altura da viewport */
+    padding: 20px;
+    /* Espaço ao redor do conteúdo */
+    box-sizing: border-box;
+}

@@ -1,0 +1,61 @@
+h1,
+h2,
+h3 {
+    color: #145a9b;
+}
+
+.texto {
+    overflow-y: auto;
+    height: 100vh;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #3288bd;
+    background-image: url('C:\Users\sereg\OneDrive\Desktop\projeto-hardwise\hardwise2.0\Hardwise\www\img\ecologico.jpg');
+    /* Fundo da URL especificada */
+    background-size: cover;
+    /* Faz a imagem ocupar todo o fundo */
+    background-repeat: no-repeat;
+    /* Impede repetição da imagem */
+    background-position: center;
+    /* Centraliza a imagem no fundo */
+}
+
+.texto>div {
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.texto>div:last-child {
+    margin-bottom: 80px;
+}
+
+.texto p {
+    color: #555;
+    line-height: 1.8;
+    margin: 10px 0;
+    text-align: justify;
+}
+
+.texto ul {
+    padding-left: 20px;
+    color: #555;
+}
+
+.texto ul li {
+    margin: 8px 0;
+    text-align: justify;
+}
+
+.texto ul li strong {
+    color: #145a9b;
+}
+
+.view-main {
+    overflow-y: auto;
+    height: 100vh;
+    background-color: #e9f4fb;
+}

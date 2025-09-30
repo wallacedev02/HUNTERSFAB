@@ -1,0 +1,75 @@
+body {
+  display: flex;
+  justify-content: center;
+  /* Centraliza horizontalmente */
+  align-items: center;
+  /* Centraliza verticalmente, se necessário */
+  height: 100vh;
+  /* Define a altura da página para 100% da viewport */
+  margin: 0;
+  /* Remove margens padrão do body */
+}
+
+.botao-container {
+  display: flex;
+  flex-direction: column;
+  /* Alinha os botões em coluna */
+  align-items: center;
+  /* Centraliza os botões horizontalmente */
+}
+
+.botao-container {
+  display: flex;
+  flex-direction: column;
+  /* Alinha os botões em coluna */
+  align-items: center;
+  /* Centraliza os botões horizontalmente */
+}
+
+.button-sobre i,
+.button-descarte i,
+.button-contato i {
+  margin-right: 10px;
+  /* Ajuste a distância entre o ícone e o texto */
+  margin-left: -5px;
+  /* Move o ícone um pouco para a esquerda */
+}
+
+
+.button-sobre,
+.button-descarte,
+.button-contato {
+  background-color: #2188e9;
+  color: white;
+  padding: 15px 22px;
+  font-size: 18px;
+  border-radius: 5px;
+  text-align: center;
+  cursor: pointer;
+  display: flex;
+  width: 250px;
+  justify-content: center;
+  margin: 18px;
+  align-items: center;
+  transition: background-color 0.3s ease;
+}
+
+.page[data-name="link2"] .page-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+#contato:hover,
+#botaoDescarte:hover,
+#meuBotao:hover {
+  background-color: #145a9b;
+}
+
+h1,
+h2,
+h3 {
+  color: #449df0;
+}
