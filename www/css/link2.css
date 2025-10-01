@@ -18,16 +18,8 @@ body {
   /* Centraliza os botões horizontalmente */
 }
 
-.botao-container {
-  display: flex;
-  flex-direction: column;
-  /* Alinha os botões em coluna */
-  align-items: center;
-  /* Centraliza os botões horizontalmente */
-}
-
 .button-sobre i,
-.button-descarte i,
+.button-Sobre_o_Trabalho i,
 .button-contato i {
   margin-right: 10px;
   /* Ajuste a distância entre o ícone e o texto */
@@ -37,9 +29,9 @@ body {
 
 
 .button-sobre,
-.button-descarte,
+.button-Sobre_o_Trabalho,
 .button-contato {
-  background-color: #2188e9;
+  background-color: rgb(145, 5, 5);
   color: white;
   padding: 15px 22px;
   font-size: 18px;
@@ -63,13 +55,7 @@ body {
 }
 
 #contato:hover,
-#botaoDescarte:hover,
+#botaoSobre_o_Trabalho:hover,
 #meuBotao:hover {
-  background-color: #145a9b;
-}
-
-h1,
-h2,
-h3 {
-  color: #449df0;
+  background-color: rgb(145, 5, 5);
 }

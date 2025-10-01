@@ -23,8 +23,8 @@ h1 {
 }
 
 .page[data-name="contatos"] .texto th {
-    background-color: #2188e9;
-    color: white;
+    background-color: #ca1515;
+    color: rgb(0, 0, 0);
 }
 
 .page[data-name="contatos"] .texto tr:hover {

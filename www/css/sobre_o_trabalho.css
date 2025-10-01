@@ -1,15 +1,9 @@
-h1,
-h2,
-h3 {
-    color: #145a9b;
-}
-
 .texto {
     overflow-y: auto;
     height: 100vh;
     padding: 20px;
     box-sizing: border-box;
-    background-color: #3288bd;
+    background-color: #000000;
     background-image: url('C:\Users\sereg\OneDrive\Desktop\projeto-hardwise\hardwise2.0\Hardwise\www\img\ecologico.jpg');
     /* Fundo da URL especificada */
     background-size: cover;
@@ -34,7 +28,7 @@ h3 {
 }
 
 .texto p {
-    color: #555;
+    color: #970000;
     line-height: 1.8;
     margin: 10px 0;
     text-align: justify;
@@ -42,7 +36,7 @@ h3 {
 
 .texto ul {
     padding-left: 20px;
-    color: #555;
+    color: #a80606;
 }
 
 .texto ul li {
@@ -51,7 +45,7 @@ h3 {
 }
 
 .texto ul li strong {
-    color: #145a9b;
+    color: #000000;
 }
 
 .view-main {

@@ -7,15 +7,14 @@
   max-width: 900px;
   margin-left: auto;
   margin-right: auto;
-  color: #333333;
+  color: #000000;
   font-family: 'Arial', sans-serif;
   line-height: 1.6;
   text-align: justify;
 }
 
-h3 {
-  color: #145a9b;
-  margin-bottom: 10px;
+h1 {
+  color: #000000;
 }
 
 body {
@@ -28,9 +27,4 @@ body {
   overflow-y: auto;
   height: calc(100vh - 20px);
   padding-bottom: 20px;
-}
-
-strong {
-  color: #145a9b;
-  font-weight: bold;
 }

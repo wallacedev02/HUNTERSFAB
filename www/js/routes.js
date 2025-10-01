@@ -20,7 +20,7 @@ var app = new Framework7({
   routes: [
 
     {
-      
+
       path: '/login/',
       url: 'login.html',
       animate: false,
@@ -95,7 +95,7 @@ var app = new Framework7({
       }
     },
     {
-      
+
       path: '/cadastro/',
       url: 'cadastro.html',
       animate: false,
@@ -264,8 +264,8 @@ var app = new Framework7({
       }
     },
     {
-      path: '/games/',
-      url: 'games.html',
+      path: '/serviços/',
+      url: 'serviços.html',
       animate: false,
       on: {
         pageBeforeIn: function (event, page) {
