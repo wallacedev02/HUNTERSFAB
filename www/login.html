@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html>
 
 <head>
   <!-- Required meta tags-->
@@ -7,52 +7,61 @@
   <meta name="viewport"
     content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, viewport-fit=cover">
   <meta name="apple-mobile-web-app-capable" content="yes">
+  <!-- Color theme for statusbar (Android only) -->
   <meta name="theme-color" content="#2196f3">
-  <title>HuntersFab</title>
+  <!-- Your app title -->
+  <title>My App</title>
   <!-- Path to Framework7 Library Bundle CSS -->
   <link rel="stylesheet" href="lib/framework7-bundle.min.css">
-  <!-- CSS Personalizado para Menu-->
   <link rel="stylesheet" href="css/index.css">
-  <link rel="stylesheet" href="css/detalhes.css">
-  <link rel="stylesheet" href="css/sobre_o_trabalho.css">
-  <link rel="stylesheet" href="css/contatos.css">
-  <link rel="stylesheet" href="css/sobre.css">
   <link rel="stylesheet" href="css/link2.css">
-  <!-- Ícones Material Design-->
+
+  <!-- CSS PERSONALIZADO PARA MENU-->
+  <link rel="stylesheet" href="css/personalizado.css">
+  <!--Ícones Material Design-->
   <link rel="stylesheet" href="css/materialdesignicons.min.css">
-  <!-- Ícones do Remix Icon-->
-  <link rel="stylesheet" href="css/remixicon/remixicon.css">
 
-  <!-- Página Principal -->
-  <div data-name="index" class="page color-theme-blue">
-    <div class="top-nav">
-      <img src="img/logo.png" alt="Logo da HuntersFab" class="imagem-logo">
 
-      <br>
+</head>
 
-      <div class="page-content">
-        <div class="block no-margin-top">
+<body>
+  <!-- App root element -->
+  <div id="app">
 
-          <br>
+    <!-- Your main view, should have "view-main" class -->
+    <div class="view view-main">
+      <!-- Initial Page, "data-name" contains page name -->
+      <div data-name="login" class="page">
 
-          <div class="align-items-center justify-content-flex-end">
-            <span class="animated-box"
-              style="color: #ffffff; font-weight: bold; text-align: center; display: inline-block; font-size: 16px;">
-              LOGIN
-            </span>
+
+        <!-- Top Navbar -->
+        <div class="top-nav2">
+          <a href="/index/" class="top-nav2">
+            <img src="img/logo.png" alt="Logo" class="imagem-logo">
+            <div class="top-nav2-bg"></div>
+          </a>
+        </div>
+
+        <!-- Scrollable page content -->
+        <div class="page-content">
+          <div>
+
           </div>
 
 
-
-
-          <script type="text/javascript" src="lib/framework7-bundle.min.js"></script>
-          <script type="text/javascript" src="lib/jquery-3.7.0.min.js"></script>
-          <script type="text/javascript" src="js/routes.js"></script>
-          <script src="cordova.js"></script>
         </div>
+
       </div>
     </div>
   </div>
-  </body>
+  </div>
+  <!-- Path to Framework7 Library Bundle JS-->
+  <script type="text/javascript" src="lib/framework7-bundle.min.js"></script>
+  <!-- jQuery -->
+  <script type="text/javascript" src="lib/jquery-3.7.0.min.js"></script>
+  <!-- Roteamento do app-->
+  <script type="text/javascript" src="js/routes.js"></script>
+  <script src="cordova.js"></script>
+</body>
 
 </html>
