@@ -1,7 +1,6 @@
 :root {
     /* Definição de variáveis de cor */
     --vermelho: #aa0000;
-    --azul: #2188e9;
     --preto: #000000;
 }
 
@@ -150,7 +149,7 @@ input[type="text"] {
 }
 
 .filter-btn.active {
-    background-color: #2188e9;
+    background-color: #272829;
     color: #ffffff;
     border: none;
     padding: 10px 20px;
@@ -160,7 +159,7 @@ input[type="text"] {
 }
 
 .filter-btn.active:hover {
-    background-color: #186bb5;
+    background-color: #57595a;
     /* Cor de fundo ao passar o mouse sobre o botão ativo */
 }
 
@@ -170,23 +169,7 @@ input[type="text"] {
     /* Estilo para linhas flexíveis */
 }
 
-.jogo {
-    color: var(--preto);
-    /* Estilo para o texto relacionado ao jogo com cor preta */
-}
 
-.jogo-card {
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: column;
-    height: 200px;
-    flex: 45%;
-    margin-right: 5px;
-    margin-bottom: 5px;
-    margin-top: -20px;
-    justify-content: space-around;
-    /* Estilo dos cartões de jogo com layout flexível e margens */
-}
 
 .img-container {
     display: flex;
@@ -199,13 +182,6 @@ input[type="text"] {
     /* Contêiner da imagem com fundo e centralização */
 }
 
-.nome-rating {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 10px;
-    /* Centralização do nome e avaliação do jogo */
-}
 
 .title-jogo {
     text-align: center;
@@ -217,28 +193,6 @@ input[type="text"] {
     font-family: 'Times New Roman', Times, serif;
 }
 
-
-
-@media (max-width: 300px) {
-    #jogos {
-        grid-template-columns: repeat(2, 1fr);
-        /* Layout de grade para dispositivos com largura menor que 300px */
-    }
-}
-
-@media (min-width:992px) {
-    .jogo-card {
-        flex: 30%;
-        /* Ajuste do tamanho do cartão de jogo para telas maiores */
-    }
-}
-
-@media (min-width:1200px) {
-    .jogo-card {
-        flex: 20%;
-        /* Ajuste do tamanho do cartão de jogo para telas extra grandes */
-    }
-}
 
 .call {
     .swiper-slide {
