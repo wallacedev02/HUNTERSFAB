@@ -45,37 +45,46 @@ var app = new Framework7({
       path: '/index/',
       url: 'index.html',
       animate: false,
+      options: {
+        reloadCurrent: true,
+        ignoreCache: true
+      },
       on: {
+        pageBeforeIn: function (event, page) {
+          console.log("🔁 Preparando para recarregar a Index...");
+        },
         pageInit: function (event, page) {
-          app.views.main.router.navigate('/index/');
-          $.getScript('js/index.js');
+          console.log("✅ Página index carregada com todos os componentes.");
 
-          var swiper = new Swiper(".mySwiper", {
+          // --- Swiper 1 (carros) ---
+          window.swiper = new Swiper(".mySwiper", {
             slidesPerView: 1,
             spaceBetween: 30,
-            autoplay: {
-              delay: 3000,
-            },
+            autoplay: { delay: 3000 },
             breakpoints: {
-              50: { slidesPerView: 1, spaceBetween: 30 },
-              640: { slidesPerView: 2, spaceBetween: 30 },
-              992: { slidesPerView: 3, spaceBetween: 30 },
-              1200: { slidesPerView: 4, spaceBetween: 30 }
+              50: { slidesPerView: 1 },
+              640: { slidesPerView: 2 },
+              992: { slidesPerView: 3 },
+              1200: { slidesPerView: 4 }
             },
           });
 
-          var swiper2 = new Swiper(".categorias", {
+          // --- Swiper 2 (categorias) ---
+          window.swiper2 = new Swiper(".categorias", {
             slidesPerView: 4,
             spaceBetween: 10,
-            breakpoints: {
-              50: { slidesPerView: 4, spaceBetween: 10 },
-              640: { slidesPerView: 7, spaceBetween: 10 },
-              992: { slidesPerView: 9, spaceBetween: 10 },
-              1200: { slidesPerView: 13, spaceBetween: 10 }
-            },
             autoplay: { delay: 3000 },
             loop: true,
+            breakpoints: {
+              50: { slidesPerView: 4 },
+              640: { slidesPerView: 7 },
+              992: { slidesPerView: 9 },
+              1200: { slidesPerView: 13 }
+            },
           });
+
+          // --- Recarrega scripts e dados ---
+          $.getScript('js/index.js');
         }
       }
     },

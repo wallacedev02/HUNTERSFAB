@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 
 <head>
@@ -10,7 +9,9 @@
   <!-- Color theme for statusbar (Android only) -->
   <meta name="theme-color" content="#2196f3">
   <!-- Your app title -->
-  <title>My App</title>
+  <title>
+    <span>Login</span>
+  </title>
   <!-- Path to Framework7 Library Bundle CSS -->
   <link rel="stylesheet" href="lib/framework7-bundle.min.css">
   <link rel="stylesheet" href="css/index.css">
@@ -21,47 +22,27 @@
   <!--Ícones Material Design-->
   <link rel="stylesheet" href="css/materialdesignicons.min.css">
 
+  <div class="page" data-name="login">
 
-</head>
+    <head>
+      <link rel="stylesheet" href="css/login.css">
+    </head>
 
-<body>
-  <!-- App root element -->
-  <div id="app">
+    <!-- TOPO COM LOGO CLICÁVEL -->
+    <div class="top-nav2">
+      <!-- Navega usando o router do Framework7 -->
+      <a href="/index/" class="logo-link">
+        <img src="img/logo.png" alt="Logo" class="imagem-logo">
+      </a>
+    </div>
 
-    <!-- Your main view, should have "view-main" class -->
-    <div class="view view-main">
-      <!-- Initial Page, "data-name" contains page name -->
-      <div data-name="login" class="page">
-
-
-        <!-- Top Navbar -->
-        <div class="top-nav2">
-          <a href="/index/" class="top-nav2">
-            <img src="img/logo.png" alt="Logo" class="imagem-logo">
-            <div class="top-nav2-bg"></div>
-          </a>
-        </div>
-
-        <!-- Scrollable page content -->
-        <div class="page-content">
-          <div>
-
-          </div>
-
-
-        </div>
-
+    <!-- CONTEÚDO PRINCIPAL -->
+    <div class="page-content">
+      <div class="login-container">
+        <h1>Login</h1>
+        <input type="text" placeholder="Nome">
+        <input type="password" placeholder="Senha">
+        <button>Entrar</button>
       </div>
     </div>
   </div>
-  </div>
-  <!-- Path to Framework7 Library Bundle JS-->
-  <script type="text/javascript" src="lib/framework7-bundle.min.js"></script>
-  <!-- jQuery -->
-  <script type="text/javascript" src="lib/jquery-3.7.0.min.js"></script>
-  <!-- Roteamento do app-->
-  <script type="text/javascript" src="js/routes.js"></script>
-  <script src="cordova.js"></script>
-</body>
-
-</html>

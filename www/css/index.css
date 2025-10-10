@@ -99,7 +99,7 @@ input[type="text"] {
 
 .page-content {
     background: var(--preto);
-    /* Fundo branco para o conteúdo da página */
+
 }
 
 .swiper-slide {
@@ -169,7 +169,10 @@ input[type="text"] {
     /* Estilo para linhas flexíveis */
 }
 
-
+body,
+.page {
+    background-color: var(--preto);
+}
 
 .img-container {
     display: flex;
