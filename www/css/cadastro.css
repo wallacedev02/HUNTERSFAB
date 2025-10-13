@@ -2,7 +2,7 @@
 .page-content {
   display: flex;
   /* corrigido: centraliza com flexbox */
-  justify-content: center;
+  justify-content: auto;
   /* centraliza horizontalmente */
   align-items: center;
   /* centraliza verticalmente */
