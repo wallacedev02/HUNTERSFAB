@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html>
-
 <head>
-  <!-- Required meta tags-->
   <meta charset="utf-8">
   <meta name="viewport"
     content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, viewport-fit=cover">
@@ -10,59 +6,87 @@
   <!-- Color theme for statusbar (Android only) -->
   <meta name="theme-color" content="#2196f3">
   <!-- Your app title -->
-  <title>Cadastro</title>
+  <title>
+    <span>Cadastro</span>
+  </title>
   <!-- Path to Framework7 Library Bundle CSS -->
   <link rel="stylesheet" href="lib/framework7-bundle.min.css">
   <link rel="stylesheet" href="css/index.css">
-  <link rel="stylesheet" href="css/link2.css">
+  <link rel="stylesheet" href="css/menu.css">
 
   <!-- CSS PERSONALIZADO PARA MENU-->
   <link rel="stylesheet" href="css/personalizado.css">
   <!--Ícones Material Design-->
   <link rel="stylesheet" href="css/materialdesignicons.min.css">
 
+  <div class="page" data-name="cadastro">
+
+    <head>
+      <link rel="stylesheet" href="css/cadastro.css">
+    </head>
+
+    <div class="top-nav2">
+      <!-- Navega usando o router do Framework7 -->
+      <a href="/index/" class="logo-link">
+        <img src="img/logo.png" alt="Logo" class="imagem-logo">
+      </a>
 
 </head>
 
 <body>
-  <!-- App root element -->
-  <div id="app">
+  <div class="page-content">
+    <div class="cadastro-container" role="form" aria-label="Formulário de Clientes">
+      <div class="form-title"><b>Formulário de Clientes</b>
+        <div>
+          <br>
+          <div class="cadastro-inner-frame">
+            <div class="field">
+              <label for="nome" class="label-strong">Nome completo</label>
+              <input id="nome" type="text" placeholder="">
+            </div>
 
-    <!-- Your main view, should have "view-main" class -->
+            <div class="field">
+              <label for="email">Email</label>
+              <input id="email" type="email" placeholder="">
+            </div>
 
-    <div class="view view-main">
-      <!-- Initial Page, "data-name" contains page name -->
-      <div data-name="cadastro" class="page">
+            <div class="field">
+              <label for="telefone">Telefone</label>
+              <input id="telefone" type="tel" placeholder="">
+            </div>
 
+            <div class="field">
+              <label for="modelo_carro">Modelo do Carro</label>
+              <input id="modelo_carro" type="text" placeholder="">
+            </div>
 
-        <!-- Top Navbar -->
-        <div class="top-nav2">
-          <a href="/index/" class="top-nav2">
-            <img src="img/logo.png" alt="Logo" class="imagem-logo">
-            <div class="top-nav2-bg"></div>
-          </a>
-        </div>
+            <div class="field">
+              <label for="ano">Ano</label>
+              <input id="ano" type="date" placeholder="">
+            </div>
 
-        <!-- Scrollable page content -->
-        <div class="page-content">
-          <div>
+            <div class="field">
+              <label for="km">Km</label>
+              <input id="km" type="text" placeholder="">
+            </div>
 
+            <div class="field">
+              <label for="cidade">Cidade</label>
+              <input id="cidade" type="text" placeholder="">
+            </div>
+
+            <div class="field">
+              <label for="estado">Estado</label>
+              <input id="estado" type="text" placeholder="">
+            </div>
+
+            <div class="field">
+              <label for="endereco">Endereço</label>
+              <input id="endereco" type="text" placeholder="">
+            </div>
+
+            <button class="submit-btn" type="button">Enviar</button>
           </div>
-
-
         </div>
-
       </div>
-    </div>
-  </div>
-  </div>
-  <!-- Path to Framework7 Library Bundle JS-->
-  <script type="text/javascript" src="lib/framework7-bundle.min.js"></script>
-  <!-- jQuery -->
-  <script type="text/javascript" src="lib/jquery-3.7.0.min.js"></script>
-  <!-- Roteamento do app-->
-  <script type="text/javascript" src="js/routes.js"></script>
-  <script src="cordova.js"></script>
 </body>
-
-</html>

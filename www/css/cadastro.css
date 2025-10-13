@@ -1,0 +1,75 @@
+/* ===== CONTEÚDO PRINCIPAL ===== */
+.page-content {
+  display: flex;
+  /* corrigido: centraliza com flexbox */
+  justify-content: center;
+  /* centraliza horizontalmente */
+  align-items: center;
+  /* centraliza verticalmente */
+  min-height: 100vh;
+  /* ocupa toda a altura da tela */
+  background-color: #000000;
+  padding: 20px;
+  overflow-y: auto;
+  /* garante apenas uma barra de rolagem */
+}
+
+/* ===== CONTAINER DO FORMULÁRIO ===== */
+.cadastro-container {
+  background-color: #1a1414;
+  padding: 30px;
+  border-radius: 25px;
+  width: 100%;
+  max-width: 900px;
+  box-shadow: 0 0 30px rgba(255, 255, 255, 0.25);
+  text-align: left;
+  color: #ffffff;
+  margin: 0 auto;
+}
+
+/* ===== TÍTULO ===== */
+.cadastro-container h1 {
+  text-align: center;
+  font-size: 22px;
+  margin-bottom: 25px;
+  color: #ffffff;
+}
+
+/* ===== CAMPOS ===== */
+.cadastro-container input,
+.cadastro-container select,
+.cadastro-container textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #888;
+  border-radius: 6px;
+  background-color: #222;
+  color: #ffffff;
+  font-size: 15px;
+  box-sizing: border-box;
+}
+
+/* ===== LABELS ===== */
+.cadastro-container label {
+  color: #ffffff;
+  font-size: 15px;
+}
+
+/* ===== BOTÃO ===== */
+.cadastro-container button {
+  width: 100%;
+  padding: 12px;
+  background-color: #b30000;
+  color: #ffffff;
+  border: none;
+  border-radius: 6px;
+  font-size: 17px;
+  cursor: pointer;
+  transition: background-color 0.3s, box-shadow 0.3s;
+}
+
+.cadastro-container button:hover {
+  background-color: #ff0000;
+  box-shadow: 0 0 10px rgba(255, 0, 0, 0.5);
+}
