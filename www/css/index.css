@@ -213,3 +213,32 @@ body,
 .page {
     overflow: auto;
 }
+
+/* ===== BOTÃO "VEJA MAIS" ===== */
+.btn-veja-mais {
+    display: inline-block;
+    padding: 12px 25px;
+    background-color: #b30000;
+    /* mesmo tom do botão de login */
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size: 17px;
+    cursor: pointer;
+    transition: background-color 0.3s, box-shadow 0.3s;
+    text-decoration: none;
+    /* remove sublinhado se for link */
+    font-weight: bold;
+}
+
+/* Efeito hover */
+.btn-veja-mais:hover {
+    background-color: #ff0000;
+}
+
+/* Efeito quando focado */
+.btn-veja-mais:focus {
+    outline: none;
+    border-color: #ff4444;
+    box-shadow: 0 0 5px rgba(255, 68, 68, 0.5);
+}

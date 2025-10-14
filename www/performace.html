@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <!-- Required meta tags-->
+  <meta charset="utf-8">
+  <meta name="viewport"
+    content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, viewport-fit=cover">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <!-- Color theme for statusbar (Android only) -->
+  <meta name="theme-color" content="#2196f3">
+
+  <!-- Your app title -->
+  <title>Performace</title>
+
+  <!-- Path to Framework7 Library Bundle CSS -->
+  <link rel="stylesheet" href="lib/framework7-bundle.min.css">
+  <link rel="stylesheet" href="css/index.css">
+  <link rel="stylesheet" href="css/performace.css">
+  <link rel="stylesheet" href="css/personalizado.css">
+
+
+
+  <!-- CSS PERSONALIZADO PARA MENU-->
+  <link rel="stylesheet" href="css/personalizado.css">
+  <!--Ícones Material Design-->
+  <link rel="stylesheet" href="css/materialdesignicons.min.css">
+</head>
+
+
+<body>
+  <!-- App root element -->
+  <div id="app">
+    <!-- Your main view, should have "view-main" class -->
+    <div class="view view-main">
+      <!-- Initial Page, "data-name" contains page name -->
+      <div data-name="performace" class="page">
+
+        <!-- Top Navbar -->
+        <div class="top-nav2">
+          <a href="/index/" class="top-nav2">
+            <img src="img/logo.png" alt="Logo" class="imagem-logo">
+            <div class="top-nav2-bg"></div>
+          </a>
+        </div>
+
+        <br>
+
+        <!-- BARRA DE FILTRO -->
+        <div class="filter-bar" aria-label="Filtro de pesquisa">
+          <div class="filter-inner">
+            <div class="filter-item">
+              <select id="fabricante" aria-label="Fabricante">
+                <option value="">Fabricante</option>
+                <option>Audi</option>
+                <option>BMW</option>
+                <option>Chevrolet</option>
+                <option>Citroen</option>
+                <option>Fiat</option>
+                <option>Ford</option>
+                <option>Honda</option>
+                <option>Jeep</option>
+                <option>Land Rover</option>
+                <option>Mercedes</option>
+                <option>Mini</option>
+                <option>Mitsubishi</option>
+                <option>Nissan</option>
+                <option>Porsche</option>
+                <option>Renault</option>
+                <option>Subaru</option>
+                <option>Troller</option>
+                <option>Volkswagen</option>
+                <option>Alfa Romeo</option>
+                <option>Aston Martin</option>
+                <option>Dodge</option>
+                <option>Ferrari</option>
+                <option>Lamborghini</option>
+                <option>Lexus</option>
+                <option>Lotus</option>
+                <option>Mazda</option>
+                <option>McLaren</option>
+                <option>Pontiac</option>
+                <option>Rolls-Royce</option>
+                <option>Toyota</option>
+                <option>Jaguar</option>
+                <option>Bugatti</option>
+                <option>Seat</option>
+                <option>Skoda</option>
+                <option>Peugeot</option>
+                <option>Infiniti</option>
+                <option>Acura</option>
+                <option>Chevrolet Corvette</option>
+                <option>Cadillac</option>
+                <option>Hyundai</option>
+                <option>Kia</option>
+                <option>Buick</option>
+                <option>Chrysler</option>
+                <option>Lincoln</option>
+              </select>
+            </div>
+
+            <div class="filter-item">
+              <select id="modelo" aria-label="Modelo">
+                <option value="">Modelo</option>
+              </select>
+            </div>
+
+            <div class="filter-item">
+              <select id="ano" aria-label="Ano de Fabricação">
+                <option value="">Ano de Fabricação</option>
+              </select>
+            </div>
+
+            <div class="filter-item">
+              <select id="versao" aria-label="Versão / Motor">
+                <option value="">Versão / Motor</option>
+              </select>
+            </div>
+
+
+            <div class="filter-actions">
+              <button class="btn-search" id="btnSearch">Pesquisar</button>
+            </div>
+          </div>
+        </div>
+
+        <!-- RODAPÉ -->
+        <footer>
+          <div class="footer-inner">
+            <img src="img/logo.png">
+          </div>
+        </footer>
+
+        <script src="js/script.js"></script>
+
+
+      </div>
+      <!-- Path to Framework7 Library Bundle JS-->
+      <script type="text/javascript" src="lib/framework7-bundle.min.js"></script>
+      <!-- jQuery -->
+      <script type="text/javascript" src="lib/jquery-3.7.0.min.js"></script>
+      <!-- Roteamento do app-->
+      <script type="text/javascript" src="js/routes.js"></script>
+      <script src="cordova.js"></script>
+</body>
+
+</html>

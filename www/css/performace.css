@@ -1,0 +1,101 @@
+/* ===== BARRA DE FILTRO ===== */
+.filter-bar {
+  background-color: #1a1a1a;
+  /* fundo preto */
+  padding: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  border-top: 5px solid #800000;
+  /* barra superior vermelha */
+  border-bottom: 5px solid #800000;
+  /* barra inferior vermelha */
+  color: #fff;
+  font-family: 'Arial', sans-serif;
+}
+
+.filter-inner {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  width: 100%;
+  max-width: 1200px;
+  justify-content: center;
+  align-items: center;
+}
+
+.filter-item select,
+.filter-item input {
+  padding: 10px 12px;
+  border-radius: 5px;
+  border: 1px solid #800000;
+  background-color: #fff;
+  /* fundo branco */
+  color: #000;
+  /* texto preto */
+  min-width: 150px;
+  font-size: 14px;
+}
+
+/* Opções do menu suspenso */
+.filter-item select option {
+  background-color: #fff;
+  /* fundo branco das opções */
+  color: #000;
+  /* texto preto nas opções */
+}
+
+/* Quando o campo estiver focado */
+.filter-item select:focus,
+.filter-item input:focus {
+  outline: none;
+  border-color: #fff;
+}
+
+
+.filter-actions {
+  display: flex;
+  align-items: center;
+}
+
+.btn-search {
+  padding: 10px 20px;
+  background-color: #b30000;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color 0.3s;
+}
+
+.btn-search:hover {
+  background-color: #ff0000;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: #000;
+  /* cor do fundo do rodapé */
+  padding: 15px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 10;
+  /* garante que fique acima de outros elementos */
+}
+
+.footer-inner img {
+  width: 700px;
+  /* ajuste o tamanho conforme preferir */
+  max-width: 40%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+
+}

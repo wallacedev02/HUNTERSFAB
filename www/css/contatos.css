@@ -1,43 +1,70 @@
-body {
-    font-family: Arial, sans-serif;
-    margin: 20px;
-    background-color: #f4f4f4;
+/* Centraliza a página inteira */
+.page[data-name="contatos"] {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 20px;
+    box-sizing: border-box;
 }
 
-h1 {
-    color: #000000;
+/* Caixa de conteúdo */
+.page[data-name="contatos"] .texto {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    max-width: 1200px;
+    /* Aumenta a largura máxima da caixa */
+    padding: 30px;
+    margin: auto;
+    border-radius: 12px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    gap: 25px;
+    /* Espaço entre elementos */
 }
 
-/* Estilo específico para a tabela da página de contatos */
+/* Título */
+.page[data-name="contatos"] .texto h1 {
+    font-size: 28px;
+    /* Maior que antes */
+    font-weight: bold;
+}
+
+/* Link Instagram */
+.page[data-name="contatos"] .texto a span {
+    font-size: 20px;
+    /* Aumenta tamanho do texto do link */
+}
+
+.page[data-name="contatos"] .texto a img {
+    width: 45px;
+    /* Aumenta tamanho do ícone */
+    height: 45px;
+}
+
+/* Tabela */
 .page[data-name="contatos"] .texto table {
     width: 100%;
     border-collapse: collapse;
-    margin-top: 20px;
+    margin-top: 25px;
 }
 
+/* Cabeçalho e células */
 .page[data-name="contatos"] .texto th,
 .page[data-name="contatos"] .texto td {
     border: 1px solid #ddd;
-    padding: 10px;
-    text-align: left;
+    padding: 15px 20px;
+    /* Aumenta padding para ficar proporcional */
+    text-align: center;
+    font-size: 16px;
+    /* Aumenta tamanho do texto */
 }
 
+/* Cabeçalho */
 .page[data-name="contatos"] .texto th {
     background-color: #ca1515;
-    color: rgb(0, 0, 0);
-}
-
-.page[data-name="contatos"] .texto tr:hover {
-    background-color: #f1f1f1;
-}
-
-/* Estilo para a div "texto" */
-.texto {
-    overflow-y: auto;
-    /* Adiciona rolagem vertical */
-    height: 100vh;
-    /* Define a altura como a altura da viewport */
-    padding: 20px;
-    /* Espaço ao redor do conteúdo */
-    box-sizing: border-box;
+    color: #000000;
 }

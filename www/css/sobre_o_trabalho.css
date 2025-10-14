@@ -1,54 +1,14 @@
-.texto {
-    overflow-y: auto;
-    height: 100vh;
+/* Centraliza toda a página "sobre" */
+.page[data-name="sobre"] {
+    display: flex;
+    justify-content: center;
+    /* Centraliza horizontalmente */
+    align-items: center;
+    /* Centraliza verticalmente */
+    min-height: 100vh;
+    /* Ocupa toda altura da tela */
     padding: 20px;
     box-sizing: border-box;
-    background-color: #000000;
-    /* Fundo da URL especificada */
-    background-size: cover;
-    /* Faz a imagem ocupar todo o fundo */
-    background-repeat: no-repeat;
-    /* Impede repetição da imagem */
-    background-position: center;
-    /* Centraliza a imagem no fundo */
-}
-
-.texto>div {
-    background-color: #ffffff;
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    padding: 20px;
-    margin-bottom: 20px;
-}
-
-.texto>div:last-child {
-    margin-bottom: 80px;
-}
-
-.texto p {
-    color: #970000;
-    line-height: 1.8;
-    margin: 10px 0;
-    text-align: justify;
-}
-
-.texto ul {
-    padding-left: 20px;
-    color: #a80606;
-}
-
-.texto ul li {
-    margin: 8px 0;
-    text-align: justify;
-}
-
-.texto ul li strong {
-    color: #000000;
-}
-
-.view-main {
-    overflow-y: auto;
-    height: 100vh;
-    background-color: #e9f4fb;
+    background-color: #000;
+    /* Fundo preto */
 }
