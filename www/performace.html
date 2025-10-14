@@ -47,10 +47,11 @@
         <br>
 
         <!-- BARRA DE FILTRO -->
-        <div class="filter-bar" aria-label="Filtro de pesquisa">
+        <form class="filter-bar" aria-label="Filtro de pesquisa" onsubmit="return validarFiltro();">
           <div class="filter-inner">
+
             <div class="filter-item">
-              <select id="fabricante" aria-label="Fabricante">
+              <select id="fabricante" aria-label="Fabricante" required>
                 <option value="">Fabricante</option>
                 <option>Audi</option>
                 <option>BMW</option>
@@ -100,29 +101,29 @@
             </div>
 
             <div class="filter-item">
-              <select id="modelo" aria-label="Modelo">
+              <select id="modelo" aria-label="Modelo" required>
                 <option value="">Modelo</option>
               </select>
             </div>
 
             <div class="filter-item">
-              <select id="ano" aria-label="Ano de Fabricação">
+              <select id="ano" aria-label="Ano de Fabricação" required>
                 <option value="">Ano de Fabricação</option>
               </select>
             </div>
 
             <div class="filter-item">
-              <select id="versao" aria-label="Versão / Motor">
+              <select id="versao" aria-label="Versão / Motor" required>
                 <option value="">Versão / Motor</option>
               </select>
             </div>
 
-
             <div class="filter-actions">
-              <button class="btn-search" id="btnSearch">Pesquisar</button>
+              <button class="btn-search" id="btnSearch" type="submit">Pesquisar</button>
             </div>
+
           </div>
-        </div>
+        </form>
 
         <!-- RODAPÉ -->
         <footer>
@@ -130,6 +131,20 @@
             <img src="img/logo.png">
           </div>
         </footer>
+
+        <script>
+          function validarFiltro() {
+            const selects = document.querySelectorAll("select[required]");
+            for (const select of selects) {
+              if (!select.value) {
+                select.reportValidity(); // Mostra a notificação padrão do navegador
+                return false;
+              }
+            }
+            return true; // Tudo certo, pode enviar
+          }
+        </script>
+
 
         <script src="js/script.js"></script>
 
