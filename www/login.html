@@ -36,9 +36,13 @@
     <div class="page-content">
       <div class="login-container">
         <h1>Login</h1>
-        <form action="#" method="post">
-          <input type="text" name="nome" placeholder="Nome" required>
-          <input type="password" name="senha" placeholder="Senha" required>
+
+
+        <!-- FORMULÁRIO DE LOGIN -->
+
+        <form action="login.php" method="post">
+          <input type="email" name="nome" placeholder="E-mail" required autocomplete="email">
+          <input type="password" name="senha" placeholder="Senha" required autocomplete="current-password">
           <button type="submit">Entrar</button>
         </form>
       </div>

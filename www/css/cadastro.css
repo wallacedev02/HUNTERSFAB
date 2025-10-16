@@ -21,18 +21,10 @@
   border-radius: 25px;
   width: 100%;
   max-width: 900px;
-  box-shadow: 0 0 30px rgba(255, 255, 255, 0.25);
+  box-shadow: 0 0 30px rgba(223, 217, 217, 0.25);
   text-align: left;
   color: #ffffff;
   margin: 0 auto;
-}
-
-/* ===== TÍTULO ===== */
-.cadastro-container h1 {
-  text-align: center;
-  font-size: 22px;
-  margin-bottom: 25px;
-  color: #ffffff;
 }
 
 /* ===== CAMPOS ===== */
@@ -44,8 +36,8 @@
   margin-bottom: 15px;
   border: 1px solid #888;
   border-radius: 6px;
-  background-color: #222;
-  color: #ffffff;
+  background-color: #ffffff;
+  color: #000000;
   font-size: 15px;
   box-sizing: border-box;
 }
@@ -73,3 +65,13 @@
   background-color: #ff0000;
   box-shadow: 0 0 10px rgba(255, 0, 0, 0.5);
 }
+
+.top-nav4 {
+  text-align: center;
+  padding: 2px 0;
+  height: auto;
+  overflow: hidden;
+  background-color: rgb(145, 5, 5);
+  /* Navegação superior centralizada e com padding */
+}
+  

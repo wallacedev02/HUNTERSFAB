@@ -14,8 +14,6 @@
   <link rel="stylesheet" href="css/index.css">
   <link rel="stylesheet" href="css/menu.css">
 
-  <!-- CSS PERSONALIZADO PARA MENU-->
-  <link rel="stylesheet" href="css/personalizado.css">
   <!--Ícones Material Design-->
   <link rel="stylesheet" href="css/materialdesignicons.min.css">
 
@@ -25,15 +23,10 @@
       <link rel="stylesheet" href="css/cadastro.css">
     </head>
 
-    <div class="top-nav2">
+    <div class="top-nav3">
       <a href="/index/" class="logo-link">
         <img src="img/logo.png" alt="Logo" class="imagem-logo">
       </a>
-      <span style="font-size: 30px; font-weight: bold; color: #ffffff; margin-top: 8px;">
-        Cadastro de Clientes:
-      </span>
-    </div>
-
 
 </head>
 
@@ -43,8 +36,10 @@
       <div class="form-title">
         <br>
 
+        <br>
+
         <!-- FORMULÁRIO -->
-        <form id="cadastroForm" action="conexao.php" method="POST">
+        <form id="cadastroForm" action="cadastro.php" method="POST">
           <div class="cadastro-inner-frame">
 
             <div class="field">
@@ -69,7 +64,7 @@
 
             <div class="field">
               <label for="ano">Ano:</label>
-              <input id="ano" name="ano" type="date" required>
+              <input id="ano" name="ano" type="number" min="1900" max="2100" step="1" required placeholder="2025">
             </div>
 
             <div class="field">
@@ -121,11 +116,25 @@
               <input id="endereco" name="endereco" type="text" required>
             </div>
 
+            <!-- Campos de senha -->
+            <div class="field">
+              <label for="senha">Senha:</label>
+              <input id="senha" name="senha" type="password" required>
+            </div>
+
+            <div class="field">
+              <label for="confirmar_senha">Confirmar Senha:</label>
+              <input id="confirmar_senha" name="confirmar_senha" type="password" required>
+            </div>
 
             <button type="submit">Cadastrar</button>
+            <div>
 
-          </div>
+            </div>
+
+
         </form>
+
       </div>
     </div>
   </div>
