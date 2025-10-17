@@ -1,42 +1,51 @@
 <?php
 session_start();
 
-$nome = $_POST['nome'] ?? '';
+// PEGANDO OS DADOS DO FORMULÁRIO
+$email = $_POST['email'] ?? '';
 $password = $_POST['senha'] ?? '';
 
+// DADOS DE CONEXÃO
 $server      = 'localhost';
 $usuario     = 'root';
 $senha_banco = '';
 $banco       = 'formulario_cadastro';
 
+// CRIANDO CONEXÃO
 $conn = new mysqli($server, $usuario, $senha_banco, $banco);
 if ($conn->connect_error) {
     die("Falha na conexão: " . $conn->connect_error);
 }
 
-$sql = "SELECT * FROM mensagens WHERE nome = ?";
+// BUSCANDO USUÁRIO PELO EMAIL
+$sql = "SELECT * FROM mensagens WHERE email = ?";
 $stmt = $conn->prepare($sql);
-$stmt->bind_param("s", $nome);
+$stmt->bind_param("s", $email);
 $stmt->execute();
 $result = $stmt->get_result();
 
+// VERIFICANDO SENHA
 if ($row = $result->fetch_assoc()) {
     if (password_verify($password, $row['senha'])) {
-        $_SESSION['usuario'] = $nome;
-        header("refresh:2;url=painel.php");
-        $msg = "✅ Login realizado com sucesso! Redirecionando para o painel...";
+        // LOGIN OK
+        $_SESSION['usuario'] = $row['nome'];
+        $msg = "✅ Login realizado com sucesso! Redirecionando para a página de performance...";
         $cor = "#28a745";
+        header("refresh:2;url=performace.html"); // Redireciona para sua página HTML
     } else {
+        // SENHA ERRADA
         $msg = "❌ Usuário ou senha incorretos! Tente novamente...";
         $cor = "#dc3545";
-        header("refresh:3;url=index.php");
+        header("refresh:3;url=index.php"); // Volta para o login
     }
 } else {
+    // USUÁRIO NÃO ENCONTRADO
     $msg = "❌ Usuário ou senha incorretos! Tente novamente...";
     $cor = "#dc3545";
-    header("refresh:3;url=index.php");
+    header("refresh:3;url=index.php"); // Volta para o login
 }
 
+// MENSAGEM VISUAL
 echo "
 <html>
 <head>

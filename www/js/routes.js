@@ -8,23 +8,21 @@ var app = new Framework7({
   name: 'My App',
   id: 'com.myapp.test',
   panel: { swipe: true },
-  dialog: {
-    buttonOk: 'Sim',
-    buttonCancel: 'Cancelar'
-  },
+  dialog: { buttonOk: 'Sim', buttonCancel: 'Cancelar' },
+  cache: false, // <-- DESABILITA CACHE GLOBAL
   routes: [
     {
       path: '/index/',
       url: 'index.html',
       animate: false,
-      options: { reloadCurrent: true, ignoreCache: true },
+      options: { reloadCurrent: true, ignoreCache: true }, // força recarregamento
       on: {
         pageBeforeIn: function () {
-          console.log("🔁 Preparando para recarregar a Index...");
+          console.log("🔁 Preparando para recarregar a Index do zero...");
         },
         pageInit: function () {
           console.log("✅ Página index carregada com todos os componentes.");
-          initIndexPage(); // função separada para index
+          initIndexPage();
         }
       }
     },
@@ -32,50 +30,27 @@ var app = new Framework7({
       path: '/performace/',
       url: 'performace.html',
       animate: false,
+      options: { reloadCurrent: true, ignoreCache: true },
       on: {
         pageInit: function () {
-          console.log("✅ Página performace carregada");
-          initPerformacePage(); // função separada para performace
+          console.log("✅ Página performace carregada do zero.");
+          initPerformacePage();
         }
       }
     },
-    {
-      path: '/login/',
-      url: 'login.html',
-      animate: false
-    },
-    {
-      path: '/cadastro/',
-      url: 'cadastro.html',
-      animate: false
-    },
-    {
-      path: '/menu/',
-      url: 'menu.html',
-      animate: false
-    },
-    {
-      path: '/sobre/',
-      url: 'sobre.html',
-      animate: false
-    },
-    {
-      path: '/sobre_o_trabalho/',
-      url: 'sobre_o_trabalho.html',
-      animate: false
-    },
-    {
-      path: '/contatos/',
-      url: 'contatos.html',
-      animate: false
-    }
+    { path: '/login/', url: 'login.html', animate: false, options: { reloadCurrent: true, ignoreCache: true } },
+    { path: '/cadastro/', url: 'cadastro.html', animate: false, options: { reloadCurrent: true, ignoreCache: true } },
+    { path: '/menu/', url: 'menu.html', animate: false, options: { reloadCurrent: true, ignoreCache: true } },
+    { path: '/sobre/', url: 'sobre.html', animate: false, options: { reloadCurrent: true, ignoreCache: true } },
+    { path: '/sobre_o_trabalho/', url: 'sobre_o_trabalho.html', animate: false, options: { reloadCurrent: true, ignoreCache: true } },
+    { path: '/contatos/', url: 'contatos.html', animate: false, options: { reloadCurrent: true, ignoreCache: true } }
   ]
 });
 
 // ===============================
 // CRIAÇÃO DA VIEW PRINCIPAL
 // ===============================
-var mainView = app.views.create('.view-main', { url: '/index/' });
+var mainView = app.views.create('.view-main', { url: '/index/', reloadCurrent: true, ignoreCache: true });
 
 // ===============================
 // FUNÇÃO DE ROTEAMENTO GLOBAL
@@ -104,7 +79,6 @@ app.on('routeChange', function (route) {
 // FUNÇÃO QUANDO O DISPOSITIVO ESTÁ PRONTO (CORDOVA)
 // ===============================
 function onDeviceReady() {
-  // Botão voltar físico do Android
   document.addEventListener("backbutton", function (e) {
     if (mainView.router.currentRoute.path === '/index/') {
       e.preventDefault();
@@ -122,7 +96,6 @@ function onDeviceReady() {
 // FUNÇÃO ESPECÍFICA PARA A PÁGINA INDEX
 // ===============================
 function initIndexPage() {
-  // --- Swiper 1 (carros) ---
   window.swiper = new Swiper(".mySwiper", {
     slidesPerView: 1,
     spaceBetween: 30,
@@ -135,7 +108,6 @@ function initIndexPage() {
     }
   });
 
-  // --- Swiper 2 (categorias) ---
   window.swiper2 = new Swiper(".categorias", {
     slidesPerView: 4,
     spaceBetween: 10,
@@ -149,7 +121,6 @@ function initIndexPage() {
     }
   });
 
-  // --- Recarrega scripts e dados da index ---
   $.getScript('js/index.js');
 }
 
@@ -157,10 +128,8 @@ function initIndexPage() {
 // FUNÇÃO ESPECÍFICA PARA A PÁGINA PERFORMACE
 // ===============================
 function initPerformacePage() {
-  // Aqui você pode colocar scripts, filtros ou animações apenas para performace
-  console.log("🔹 Scripts e personalizações da página performace podem ser inicializados aqui.");
+  console.log("🔹 Scripts e personalizações da página performace carregados.");
 
-  // Exemplo: ativar inputs e selects com estilo próprio
   var selects = document.querySelectorAll('.page[data-name="performace"] select');
   selects.forEach(function (sel) {
     sel.style.color = '#fff';

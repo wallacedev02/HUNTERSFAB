@@ -66,12 +66,49 @@
   box-shadow: 0 0 10px rgba(255, 0, 0, 0.5);
 }
 
-.top-nav4 {
-  text-align: center;
-  padding: 2px 0;
-  height: auto;
-  overflow: hidden;
-  background-color: rgb(145, 5, 5);
-  /* Navegação superior centralizada e com padding */
+.password-group {
+  display: flex;
+  gap: 20px;
+  /* espaçamento entre os campos */
 }
-  
+
+.password-group .field {
+  flex: 1;
+  /* os dois campos ficam com a mesma largura */
+  display: flex;
+  flex-direction: column;
+  /* mantém o label acima do input */
+}
+
+/* Responsivo — empilha em telas pequenas */
+@media (max-width: 600px) {
+  .password-group {
+    flex-direction: column;
+  }
+}
+
+.field-group {
+  display: flex;
+  gap: 20px;
+  /* Espaço entre os campos */
+}
+
+.field-group .field {
+  flex: 1;
+  /* Faz os dois campos ocuparem larguras iguais */
+  display: flex;
+  flex-direction: column;
+  /* Mantém o label acima do input */
+}
+
+/* Campos normais */
+.field {
+  margin-bottom: 15px;
+}
+
+/* Responsivo (em telas pequenas, empilha os campos) */
+@media (max-width: 600px) {
+  .field-group {
+    flex-direction: column;
+  }
+}

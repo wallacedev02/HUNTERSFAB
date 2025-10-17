@@ -27,6 +27,7 @@
       <a href="/index/" class="logo-link">
         <img src="img/logo.png" alt="Logo" class="imagem-logo">
       </a>
+    </div>>
 
 </head>
 
@@ -34,9 +35,7 @@
   <div class="page-content">
     <div class="cadastro-container" role="form" aria-label="Cadastro de Clientes">
       <div class="form-title">
-        <br>
 
-        <br>
 
         <!-- FORMULÁRIO -->
         <form id="cadastroForm" action="cadastro.php" method="POST">
@@ -52,63 +51,72 @@
               <input id="email" name="email" type="email" required>
             </div>
 
-            <div class="field">
-              <label for="telefone">Telefone:</label>
-              <input id="telefone" name="telefone" type="tel" required>
+            <!-- Telefone e Modelo do Carro -->
+            <div class="field-group">
+              <div class="field">
+                <label for="telefone">Telefone:</label>
+                <input id="telefone" name="telefone" type="tel" required>
+              </div>
+
+              <div class="field">
+                <label for="modelo_carro">Modelo do Carro:</label>
+                <input id="modelo_carro" name="modelo_carro" type="text" required>
+              </div>
             </div>
 
-            <div class="field">
-              <label for="modelo_carro">Modelo do Carro:</label>
-              <input id="modelo_carro" name="modelo_carro" type="text" required>
+            <!-- Ano e Km -->
+            <div class="field-group">
+              <div class="field">
+                <label for="ano">Ano:</label>
+                <input id="ano" name="ano" type="number" min="1900" max="2100" step="1" required placeholder="2025">
+              </div>
+
+              <div class="field">
+                <label for="km">Km:</label>
+                <input id="km" name="km" type="text" required>
+              </div>
             </div>
 
-            <div class="field">
-              <label for="ano">Ano:</label>
-              <input id="ano" name="ano" type="number" min="1900" max="2100" step="1" required placeholder="2025">
-            </div>
+            <!-- Cidade e Estado -->
+            <div class="field-group">
+              <div class="field">
+                <label for="cidade">Cidade:</label>
+                <input id="cidade" name="cidade" type="text" required>
+              </div>
 
-            <div class="field">
-              <label for="km">Km:</label>
-              <input id="km" name="km" type="text" required>
-            </div>
-
-            <div class="field">
-              <label for="cidade">Cidade:</label>
-              <input id="cidade" name="cidade" type="text" required>
-            </div>
-
-            <div class="field">
-              <label for="estado">Estado:</label>
-              <select id="estado" name="estado" required aria-label="Estado">
-                <option value="">Selecione o estado</option>
-                <option value="AC">Acre (AC)</option>
-                <option value="AL">Alagoas (AL)</option>
-                <option value="AP">Amapá (AP)</option>
-                <option value="AM">Amazonas (AM)</option>
-                <option value="BA">Bahia (BA)</option>
-                <option value="CE">Ceará (CE)</option>
-                <option value="DF">Distrito Federal (DF)</option>
-                <option value="ES">Espírito Santo (ES)</option>
-                <option value="GO">Goiás (GO)</option>
-                <option value="MA">Maranhão (MA)</option>
-                <option value="MT">Mato Grosso (MT)</option>
-                <option value="MS">Mato Grosso do Sul (MS)</option>
-                <option value="MG">Minas Gerais (MG)</option>
-                <option value="PA">Pará (PA)</option>
-                <option value="PB">Paraíba (PB)</option>
-                <option value="PR">Paraná (PR)</option>
-                <option value="PE">Pernambuco (PE)</option>
-                <option value="PI">Piauí (PI)</option>
-                <option value="RJ">Rio de Janeiro (RJ)</option>
-                <option value="RN">Rio Grande do Norte (RN)</option>
-                <option value="RS">Rio Grande do Sul (RS)</option>
-                <option value="RO">Rondônia (RO)</option>
-                <option value="RR">Roraima (RR)</option>
-                <option value="SC">Santa Catarina (SC)</option>
-                <option value="SP">São Paulo (SP)</option>
-                <option value="SE">Sergipe (SE)</option>
-                <option value="TO">Tocantins (TO)</option>
-              </select>
+              <div class="field">
+                <label for="estado">Estado:</label>
+                <select id="estado" name="estado" required aria-label="Estado">
+                  <option value="">Selecione o estado</option>
+                  <option value="AC">Acre (AC)</option>
+                  <option value="AL">Alagoas (AL)</option>
+                  <option value="AP">Amapá (AP)</option>
+                  <option value="AM">Amazonas (AM)</option>
+                  <option value="BA">Bahia (BA)</option>
+                  <option value="CE">Ceará (CE)</option>
+                  <option value="DF">Distrito Federal (DF)</option>
+                  <option value="ES">Espírito Santo (ES)</option>
+                  <option value="GO">Goiás (GO)</option>
+                  <option value="MA">Maranhão (MA)</option>
+                  <option value="MT">Mato Grosso (MT)</option>
+                  <option value="MS">Mato Grosso do Sul (MS)</option>
+                  <option value="MG">Minas Gerais (MG)</option>
+                  <option value="PA">Pará (PA)</option>
+                  <option value="PB">Paraíba (PB)</option>
+                  <option value="PR">Paraná (PR)</option>
+                  <option value="PE">Pernambuco (PE)</option>
+                  <option value="PI">Piauí (PI)</option>
+                  <option value="RJ">Rio de Janeiro (RJ)</option>
+                  <option value="RN">Rio Grande do Norte (RN)</option>
+                  <option value="RS">Rio Grande do Sul (RS)</option>
+                  <option value="RO">Rondônia (RO)</option>
+                  <option value="RR">Roraima (RR)</option>
+                  <option value="SC">Santa Catarina (SC)</option>
+                  <option value="SP">São Paulo (SP)</option>
+                  <option value="SE">Sergipe (SE)</option>
+                  <option value="TO">Tocantins (TO)</option>
+                </select>
+              </div>
             </div>
 
             <div class="field">
@@ -116,23 +124,21 @@
               <input id="endereco" name="endereco" type="text" required>
             </div>
 
-            <!-- Campos de senha -->
-            <div class="field">
-              <label for="senha">Senha:</label>
-              <input id="senha" name="senha" type="password" required>
-            </div>
+            <!-- Senha e Confirmar Senha -->
+            <div class="field-group">
+              <div class="field">
+                <label for="senha">Senha:</label>
+                <input id="senha" name="senha" type="password" required>
+              </div>
 
-            <div class="field">
-              <label for="confirmar_senha">Confirmar Senha:</label>
-              <input id="confirmar_senha" name="confirmar_senha" type="password" required>
+              <div class="field">
+                <label for="confirmar_senha">Confirmar Senha:</label>
+                <input id="confirmar_senha" name="confirmar_senha" type="password" required>
+              </div>
             </div>
-
             <button type="submit">Cadastrar</button>
-            <div>
 
-            </div>
-
-
+          </div>
         </form>
 
       </div>
